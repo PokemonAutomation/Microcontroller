@@ -1,6 +1,6 @@
 # Pokémon Automation - Microcontroller Programs
 
-This repo contains the microcontroller (native) based programs for Pokémon Automation.
+This repo contains the microcontroller-only programs (formerly known as "native programs") for Pokémon Automation.
 
 All Repos:
 - Microcontroller Programs (this repo)

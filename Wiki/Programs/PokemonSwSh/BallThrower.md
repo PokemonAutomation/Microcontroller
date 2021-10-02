@@ -8,7 +8,7 @@ This program is intended for a very specific use case - to Beast Ball catch lege
 
 > *Obtaining that many Beast Balls by fully legitimate means is difficult even with automation. Therefore, this program is really only useful to those who have access to God Egg duplication or have joined a hacked 999x raid.*
 
-<img src="Wiki/Programs/PokemonSwSh/images/BallThrower.png" width="800">
+<img src="images/BallThrower.png" width="800">
 
 ### Initial Setup
 
@@ -49,7 +49,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 Example of Trevenant:
 
-<img src="https://github.com/PokemonAutomation/SwSh-Arduino/raw/master/Documentation/NativePrograms/images/BallThrower-0.png" width="400"> <img src="https://raw.githubusercontent.com/PokemonAutomation/SwSh-Arduino/master/Documentation/NativePrograms/images/BallThrower-1.png" width="400">
+<img src="images/BallThrower-0.png" width="400"> <img src="images/BallThrower-1.png" width="400">
 
 | Noteworthy Support Pokémon |   |   |   |
 | --- | --- | --- | --- |

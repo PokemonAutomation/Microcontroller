@@ -1,8 +1,16 @@
 # Mass Release
 
+**Related Programs:**
+- **Microcontroller:** [MassRelease](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/MassRelease.md) (this program)
+- **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/MassRelease.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
-MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects and non-shiny fossils.
+MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects, non-shiny fossils, and other hunts.
+
+<img src="images/MassRelease-0.jpg">
 
 ### Setup of Settings
 
@@ -34,16 +42,18 @@ See [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Ardu
 
 ### Options
 
+Most of the options here are self-explanatory.
 This program does not use the global setting to bypassing the system update window. It has its own setting for that. (See below.)
 
-### # of Boxes to Release:
-```
-const uint8_t BOXES_TO_RELEASE  =   2;
-```
-This is the number of boxes to release.
+<img src="images/MassRelease-1.png">
 
-### Dodge the System Update Window:
-```
-const bool DODGE_SYSTEM_UPDATE_WINDOW   =   false;
-```
-When set to true, the program will dodge the system update window. Do not set this option if the system update window is not present. Unlike other programs, MassRelease will not be able to tolerate the extra button presses if they land in the box system.
+### Dodge System Update Window:
+
+When enabled, the program will dodge the system update window. Do not set this option if the system update window is not present. Unlike other programs, MassRelease will not be able to tolerate the extra button presses if they land in the box system.
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)

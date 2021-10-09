@@ -54,7 +54,7 @@ However, you can trick it to sort all best friends first by enabling local commu
 
 Most of the options here are self-explanatory. If your internet connection is slow, you can try adjusting the delays.
 
-<img src="images/FriendDelete-1.jpg">
+<img src="images/FriendDelete-1.png">
 
 
 <hr>

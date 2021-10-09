@@ -10,7 +10,7 @@ The microcontroller and computer-control versions of this program are functional
 
 TurboA does exactly what its name implies - it endlessly presses A. The purpose of this program is to grind the Digging Duo and Cram-o-matic.
 
-<img src="images/TurboA.png" width="800">
+<img src="images/TurboA.png>
 
 ### Setup of Settings
 
@@ -39,3 +39,9 @@ This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](FrameworkSettings.md#tole
 This program has no program-specific configuration options.
 
 
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)

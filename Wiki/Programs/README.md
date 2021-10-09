@@ -8,63 +8,64 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 ## Nintendo Switch
 
-- [FrameworkSetttings](NintendoSwitch/FrameworkSettings.md)
-- [TurboA](NintendoSwitch/TurboA.md)
-- [FriendDelete](NintendoSwitch/FriendDelete.md)
+- [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
+- [Turbo A](NintendoSwitch/TurboA.md)
+- [Friend Delete](NintendoSwitch/FriendDelete.md)
 - [PABotBase](NintendoSwitch/PABotBase.md)
 
 ## Pokémon Sword/Shield
 
-- [PokemonSettings](PokemonSwSh/PokemonSettings.md)
-- [CustomProgram](PokemonSwSh/CustomProgram.md)
+- [Pokemon Settings](PokemonSwSh/PokemonSettings.md)
+- [Custom Program](PokemonSwSh/CustomProgram.md)
 
 **General Programs:**
-- [MassRelease](PokemonSwSh/MassRelease.md)
-- [TradeBot](PokemonSwSh/TradeBot.md)
-- [ClothingBuyer](PokemonSwSh/ClothingBuyer.md)
-- [BallThrower](PokemonSwSh/BallThrower.md)
+- [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
+- [Mass Release](PokemonSwSh/MassRelease.md)
+- [Trade Bot](PokemonSwSh/TradeBot.md)
+- [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
+- [Ball Thrower](PokemonSwSh/BallThrower.md)
 
 **Date-Spam Farmers:**
-- [DateSpam-WattFarmer](PokemonSwSh/DateSpam-WattFarmer.md)
-- [DateSpam-BerryFarmer](PokemonSwSh/DateSpam-BerryFarmer.md)
-- [DateSpam-StowOnSideFarmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
-- [DateSpam-DailyHighlightFarmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
+- [Date Spam - WattFarmer](PokemonSwSh/DateSpam-WattFarmer.md)
+- [Date Spam - BerryFarmer](PokemonSwSh/DateSpam-BerryFarmer.md)
+- [Date Spam - StowOnSideFarmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
+- [Date Spam - DailyHighlightFarmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
 **Shiny Hunting:**
-- [MultiGameFossil](PokemonSwSh/MultiGameFossil.md)
-- [ShinyHunt-Regi](PokemonSwSh/ShinyHunt-Regi.md)
-- [ShinyHunt-SwordsOfJustice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
-- [ShinyHuntUnattended-Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
-- [ShinyHuntUnattended-SwordsOfJustice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
-- [ShinyHuntUnattended-StrongSpawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
-- [ShinyHuntUnattended-Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
-- [ShinyHuntUnattended-Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
-- [ShinyHuntUnattended-IoATrade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- [CurryHunter](PokemonSwSh/CurryHunter.md)
+- [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
+- [Shiny Hunt: Regi](PokemonSwSh/ShinyHunt-Regi.md)
+- [Shiny Hunt: Swords Of Justice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
+- [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
+- [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
+- [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- [Shiny Hunt Unattended - Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
+- [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
+- [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- [Curry Hunter](PokemonSwSh/CurryHunter.md)
 
 **Den Hunting:**
-- [BeamReset](PokemonSwSh/BeamReset.md)
-- [EventBeamFinder](PokemonSwSh/EventBeamFinder.md)
-- [DaySkipperJPN](PokemonSwSh/DaySkipperJPN.md)
-- [DaySkipperEU](PokemonSwSh/DaySkipperEU.md)
-- [DaySkipperUS](PokemonSwSh/DaySkipperUS.md)
-- [DaySkipperJPN-7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md)
+- [Beam Reset](PokemonSwSh/BeamReset.md)
+- [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)
+- [Day Skipper (JPN)](PokemonSwSh/DaySkipperJPN.md)
+- [Day Skipper (EU)](PokemonSwSh/DaySkipperEU.md)
+- [Day Skipper (US)](PokemonSwSh/DaySkipperUS.md)
+- [Day Skipper (JPN) - 7.8k](PokemonSwSh/DaySkipperJPN-7.8k.md)
 
 **Hosting:**
-- [DenRoller](PokemonSwSh/DenRoller.md)
-- [AutoHost-Rolling](PokemonSwSh/AutoHost-Rolling.md)
-- [AutoHost-MultiGame](PokemonSwSh/AutoHost-MultiGame.md)
+- [Den Roller](PokemonSwSh/DenRoller.md)
+- [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
+- [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
 
 **Eggs:**
-- [EggFetcher2](PokemonSwSh/EggFetcher2.md)
-- [EggHatcher](PokemonSwSh/EggHatcher.md)
-- [EggCombined2](PokemonSwSh/EggCombined2.md)
-- [EggSuperCombined2](PokemonSwSh/EggSuperCombined2.md)
+- [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)
+- [Egg Hatcher](PokemonSwSh/EggHatcher.md)
+- [Egg Combined 2](PokemonSwSh/EggCombined2.md)
+- [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)
 
 **Forbidden Programs:**
-- [FastCodeEntry](PokemonSwSh/FastCodeEntry.md)
-- [GodEggItemDupe](PokemonSwSh/GodEggItemDupe.md)
-- [GodEggDuplication (developer only)](PokemonSwSh/GodEggDuplication.md)
+- [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
+- [God Egg Item Duplication](PokemonSwSh/GodEggItemDupe.md)
+- [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md)
 
 
 ## Pokémon Brilliant Diamond/Shining Pearl

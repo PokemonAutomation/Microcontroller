@@ -1,7 +1,7 @@
 # Mass Release
 
 **Related Programs:**
-- **Microcontroller:** [MassRelease](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/MassRelease.md) (this program)
+- **Microcontroller:** [Mass Release](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/MassRelease.md) (this program)
 - **Computer Control:** [Mass Release](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/MassRelease.md)
 
 The microcontroller and computer-control versions of this program are functionally identical.
@@ -29,7 +29,7 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 1. You must in the box system.
 2. The cursor must be over the 1st Pokémon in the box. (top-left corner)
 3. The cursor must be red. (not blue or green)
-4. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+2. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
 
    > Once started, this program will release the specified number of boxes consecutively starting from the current box.
 
@@ -45,7 +45,7 @@ See [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Ardu
 Most of the options here are self-explanatory.
 This program does not use the global setting to bypassing the system update window. It has its own setting for that. (See below.)
 
-<img src="images/MassRelease-1.png">
+<img src="images/MassRelease-Settings.png">
 
 ### Dodge System Update Window:
 

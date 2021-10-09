@@ -1,8 +1,14 @@
 # Trade Bot
 
+**Related Programs:**
+- **Microcontroller:** [Trade Bot](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/TradeBot.md) (this program)
+- **Computer Control:** [Trade Bot](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/TradeBot.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
-TradeBot is a coded version of [SurpriseTrade](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-SurpriseTrade). The main use case is for hosting giveaways.
+TradeBot is a coded version of [SurpriseTrade](SurpriseTrade.md). The main use case is for hosting giveaways.
 
 The program can sustain a trade every ~103 seconds. Thus it takes almost an hour to process a box. 
 
@@ -24,7 +30,7 @@ This program is experimental and is more suited for high-demand and high-quantit
 3. Check there is nothing in front of you that can be interacted with.
 4. Backed yourself into a corner where you cannot travel down or right.
 5. Your location should be safe from getting attacked by wild Pokémon.
-6. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+2. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
 
 ### Box Setup
 
@@ -58,57 +64,11 @@ When the program reaches the end of a box, it will pause for a longer period bef
    > - Untradable Pokémon: fused, illegal, etc...
    > - You get disconnected from the internet while the program is running.
 
-***
 
 ### Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-### Trade Code:
-```
-const char* TRADE_CODE          =   "1280 0000";
-```
-Pretty self-explanatory.
+Most of the options here are self-explanatory.
 
-The program will skip non-digit characters. So the space or hyphen separator is optional.
-
-### # of Boxes to Trade:
-```
-const uint8_t BOXES_TO_TRADE    =   2;
-```
-This is the number of boxes to trade away.
-
-### Link Trade Extra Line:
-```
-const bool LINK_TRADE_EXTRA_LINE    =   false;
-```
-Set this to true if you are playing in German or the program won't work correctly.
-
-### Search Delay:
-```
-const uint16_t SEARCH_DELAY     =   20 * TICKS_PER_SECOND;
-```
-Wait this long to search for a trade partner before canceling (if no partner found) or proceeding to trade.
-
-### Confirm Trade Delay:
-```
-const uint16_t CONFIRM_DELAY    =   10 * TICKS_PER_SECOND;
-```
-Once you select a Pokémon to trade, give the user this long to confirm the trade before you cancel the trade.
-
-### Internet Connection Delays:
-```
-const uint16_t TRADE_START          =   10 * TICKS_PER_SECOND;
-const uint16_t TRADE_COMMUNICATION  =   20 * TICKS_PER_SECOND;
-```
-Increase these if your internet connection is slow.
-
-## Advanced Settings:
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
-
-### Misc. Timings:
-```
-const uint16_t TRADE_ANIMATION  =   23 * TICKS_PER_SECOND;
-const uint16_t EVOLVE_DELAY     =   30 * TICKS_PER_SECOND;
-```
-These are pretty self-explanatory. You shouldn’t need to change them. 
+<img src="images/TradeBot-Settings.png">

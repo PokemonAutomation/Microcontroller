@@ -1,5 +1,11 @@
 # Surprise Trade
 
+**Related Programs:**
+- **Microcontroller:** [Surprise Trade](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/SurpriseTrade.md) (this program)
+- **Computer Control:** [Surprise Trade](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/SurpriseTrade.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 SurpriseTrade will surprise trade entire boxes of Pokémon. The main use case is gathering trainer IDs for Loto farming and to farm hacked Pokémon+items surprise trades.
@@ -21,7 +27,7 @@ This program is similar to brianuuuSonic's BoxSurpriseTrade, but is also toleran
 2. Check there is nothing in front of you that can be interacted with.
 3. Backed yourself into a corner where you cannot travel down or right.
 4. Your location should be safe from getting attacked by wild Pokémon.
-5. Start the program in the [Change Grip/Order Menu](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-ChangeGripOrderMenu).
+2. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
 
 ### Box Setup
 
@@ -53,31 +59,12 @@ When the program reaches the end of a box, it will pause for a longer period bef
 > - Untradable Pokémon: eggs, fused, illegal, etc...
 > - You get disconnected from the internet while the program is running.
 
-***
 
 ### Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-### # of Boxes to Trade:
-```
-const uint8_t BOXES_TO_TRADE    =   2;
-```
-This is the number of boxes to trade away.
+Most of the options here are self-explanatory.
 
-### Wait for Partner Delay:
-```
-const uint16_t INITIAL_WAIT     =   30 * TICKS_PER_SECOND;
-```
-Wait this long for a partner to be found before continuing.
+<img src="images/SurpriseTrade-Settings.png">
 
-## Advanced Settings:
-
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
-
-### Misc. Timings:
-```
-const uint16_t TRADE_ANIMATION  =   23 * TICKS_PER_SECOND;
-const uint16_t EVOLVE_DELAY     =   30 * TICKS_PER_SECOND;
-```
-These are pretty self-explanatory. You shouldn’t need to change them. 

@@ -1,7 +1,7 @@
 # Friend Delete
 
 **Related Programs:**
-- **Microcontroller:** [FriendDelete](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/FriendDelete.md) (this program)
+- **Microcontroller:** [Friend Delete](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/NintendoSwitch/FriendDelete.md) (this program)
 - **Computer Control:** [Friend Delete](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/NintendoSwitch/FriendDelete.md)
 
 The microcontroller and computer-control versions of this program are functionally identical.
@@ -54,7 +54,7 @@ However, you can trick it to sort all best friends first by enabling local commu
 
 Most of the options here are self-explanatory. If your internet connection is slow, you can try adjusting the delays.
 
-<img src="images/FriendDelete-1.png">
+<img src="images/FriendDelete-Settings.png">
 
 
 <hr>

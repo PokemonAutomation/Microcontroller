@@ -65,10 +65,17 @@ When the program reaches the end of a box, it will pause for a longer period bef
    > - You get disconnected from the internet while the program is running.
 
 
-### Options
+## Options
 
 This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 Most of the options here are self-explanatory.
 
 <img src="images/TradeBot-Settings.png">
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)

@@ -19,8 +19,8 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Custom Program](PokemonSwSh/CustomProgram.md)
 
 **General Programs:**
-- [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
 - [Mass Release](PokemonSwSh/MassRelease.md)
+- [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
 - [Trade Bot](PokemonSwSh/TradeBot.md)
 - [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
 - [Ball Thrower](PokemonSwSh/BallThrower.md)

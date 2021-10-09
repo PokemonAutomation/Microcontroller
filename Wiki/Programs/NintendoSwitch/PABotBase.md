@@ -4,7 +4,7 @@ Pokémon Automation Bot Base (PABotBase) is the program used by all the [advance
 
 You shouldn't have to compile this program yourself since the SerialPrograms package has this pre-compiled.
 
-<img src="images/PABotBase.png>
+<img src="images/PABotBase-0.png">
 
 <hr>
 

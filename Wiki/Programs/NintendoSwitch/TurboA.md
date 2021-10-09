@@ -10,7 +10,7 @@ The microcontroller and computer-control versions of this program are functional
 
 TurboA does exactly what its name implies - it endlessly presses A. The purpose of this program is to grind the Digging Duo and Cram-o-matic.
 
-<img src="images/TurboA.png>
+<img src="images/TurboA.png">
 
 ### Setup of Settings
 

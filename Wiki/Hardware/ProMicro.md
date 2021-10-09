@@ -33,7 +33,7 @@ The basic Pro Micro hardware setup will look like this:
 
 ## Next Steps
 
-Continue to the [software tutorial for Pro Micro](/SoftwareGuide/ProMicro.md).
+Continue to the [software tutorial](/Wiki/Software/README.md).
 
 <hr>
 

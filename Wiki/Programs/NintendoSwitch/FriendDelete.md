@@ -1,17 +1,25 @@
 # Friend Delete
 
+**Related Programs:**
+- **Microcontroller:** [FriendDelete](https://github.com/PokemonAutomation/Microcontroller/blob/main/Wiki/Programs/NintendoSwitch/FriendDelete.md) (this program)
+- **Computer Control:** [Friend Delete](https://github.com/PokemonAutomation/ComputerControl/blob/main/Wiki/Programs/NintendoSwitch/FriendDelete.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 Delete or block from your friend list.
 
 Once you’ve auto-hosted enough, your friend list is going to fill up. FriendDelete can clean it up.
 
+<img src="images/FriendDelete-0.jpg">
+
 ### Instructions
 
 > Please read these Implementation Notes carefully as you can easily delete friends you didn't intend to delete.
 
 1. Mark all the friends you want to keep as "best" friend.
-2. Go into Pokémon Sword/Shield. Make sure you're offline.
+2. Go into a game that uses local connection such as Pokémon Sword/Shield. Make sure you're offline.
 3. Return to your friends list. All your best friends will be sorted at the top regardless of who's online or not.
 4. Scroll all the way to the bottom of your friends list.
 5. With the cursor over the last person, start this program. The program will delete your friends one-by-one from the back of the list.
@@ -44,29 +52,13 @@ However, you can trick it to sort all best friends first by enabling local commu
 
 ### Options
 
-### Number of Friends to Delete/Block:
-```
-const uint16_t FRIENDS_TO_DELETE    =   3;
-```
-The number of friends to delete or block.
+Most of the options here are self-explanatory. If your internet connection is slow, you can try adjusting the delays.
 
-### Block Instead of Delete:
-```
-const bool BLOCK_FRIENDS            =   false;
-```
-Set this to true if you want to block these friends instead of just deleting them.
+<img src="images/FriendDelete-1.jpg">
 
-### Internet Connection Delays:
-```
-//  Delay from opening a friend to when you can press buttons.
-const uint16_t VIEW_FRIEND_DELAY    =   2 * TICKS_PER_SECOND;
 
-//  Delay to delete the friend.
-const uint16_t DELETE_FRIEND_DELAY  =   8 * TICKS_PER_SECOND;
+<hr>
 
-//  Delay after deleting a friend.
-const uint16_t FINISH_DELETE_DELAY  =   2 * TICKS_PER_SECOND;
-```
-These are all delays related to your internet connection. You may need to adjust these to ensure the program works correctly.
+**Discord Server:** 
 
-Try with the defaults first. If things don’t work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)

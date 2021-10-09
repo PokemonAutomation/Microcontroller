@@ -40,7 +40,7 @@ Heavy users in general will probably want to upgrade to using the [computer-cont
 
 ## Next Steps
 
-Continue to the [software tutorial for Teensy 2.0](/SoftwareGuide/Teensy2.md).
+Continue to the [software tutorial](/Wiki/Software/README.md).
 
 <hr>
 

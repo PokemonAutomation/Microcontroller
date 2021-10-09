@@ -2,7 +2,7 @@
 
 Pokémon Automation Bot Base (PABotBase) is the program used by all the [Computer-Control programs](https://github.com/PokemonAutomation/ComputerControl).
 
-You shouldn't have to compile this program yourself since the SerialPrograms package has this pre-compiled.
+You shouldn't have to compile this program yourself since the ComputerPrograms package has this pre-compiled.
 
 <img src="images/PABotBase-0.png">
 

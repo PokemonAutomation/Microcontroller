@@ -6,6 +6,7 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
+
 ## Program Description
 
 MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects, non-shiny fossils, and other hunts.
@@ -38,7 +39,6 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
 ### Safety Recommendations:
 See [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-MaximizingSwitchStability).
 
-***
 
 ## Options
 

@@ -23,6 +23,7 @@ Be patient. Learn algebra before attempting Calculus.
 - [Hardware Setup](Wiki/Hardware/README.md)
 - [Software Setup](Wiki/Software/README.md)
 - [Program List](Wiki/Programs/README.md)
+  - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
   - [Pokémon Brilliant Diamond/Shining Pearl (coming soon...)](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
 - [Version History](Wiki/VersionHistory.md)

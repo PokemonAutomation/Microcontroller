@@ -1,5 +1,12 @@
 # Ball Thrower
 
+**Related Programs:**
+- **Microcontroller:** [Clothing Buyer](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md) (this program)
+- **Computer Control:** [Clothing Buyer](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ClothingBuyer.md)
+- **Computer Control:** [Autonomous Ball Thrower](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/AutonomousBallThrower.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
 ## Program Description
 
 As its name implies, this program automatically throws balls to catch a Pokémon.
@@ -8,7 +15,7 @@ This program is intended for a very specific use case - to Beast Ball catch lege
 
 > *Obtaining that many Beast Balls by fully legitimate means is difficult even with automation. Therefore, this program is really only useful to those who have access to God Egg duplication or have joined a hacked 999x raid.*
 
-<img src="images/BallThrower.png" width="800">
+<img src="images/BallThrower-0.png">
 
 ### Initial Setup
 
@@ -49,7 +56,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 Example of Trevenant:
 
-<img src="images/BallThrower-0.png" width="400"> <img src="images/BallThrower-1.png" width="400">
+<img src="images/BallThrower-1.png" width="400"> <img src="images/BallThrower-2.png" width="400">
 
 | Noteworthy Support Pokémon |   |   |   |
 | --- | --- | --- | --- |
@@ -86,10 +93,18 @@ Example of Trevenant:
 
 The program will keep throwing balls until it catches, you run out of balls, or you die. Once it catches, it will return to the overworld. Then it will either trap itself inside the Pokédex or enter and exit the Pokémon Camp.
 
-***
 
-### Options
+## Options
 
 This program does not support avoiding the system update window.
 
 This program has no program-specific configuration options.
+
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+

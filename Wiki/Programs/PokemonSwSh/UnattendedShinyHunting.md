@@ -4,7 +4,7 @@ CALIBRATION IS A REQUIRED PART OF GETTING THIS PROGRAM TO WORK PROPERLY
 
 ## How to Calibrate:
 
-Calibration involves setting the delay so that the program runs away from the encounter shortly after the battle menu appears. To aid in this process, the program will turn on the LEDs on the device (Teensy/ProMicro) the moment it starts the run-away sequence.
+Calibration involves setting the delay so that the program runs away from the encounter shortly after the battle menu appears. To aid in this process, the program will turn on the LEDs on the device the moment it starts the run-away sequence.
 
 While the exact timing recommendations will vary by program, but for the most part when calibrated correctly:
 1. When the encounter is not shiny, the following happens
@@ -95,7 +95,7 @@ Unattended shiny-hunting programs are new to the Crown Tundra DLC (though the co
 
 The idea with unattended programs is to repeatedly reset for a shiny encounter and then automatically stop when a shiny is found.
 
-But how is this possible? There is no feedback. The Teensy/ProMicro can’t tell if there’s a shiny since it can’t see the screen or hear sounds.
+But how is this possible? There is no feedback. The device can’t tell if there’s a shiny since it can’t see the screen or hear sounds.
 It is in fact possible. The trick is to abuse the fact that the shiny animation adds a 2 second delay to when the battle menu appears. Thus you can use these 2 seconds to swallow a sequence of button presses that would cause a branch in the state sequence such that one branch resets, while the other branch does not. For most of the unattended shiny-hunting programs, this sequence is to run from the encounter.
 
 Thus, the key is to run from the non-shiny encounter within 2 seconds of the battle menu appearing. If the encounter is shiny, this does not happen and the program proceeds to trap itself inside the summary of your Pokémon thereby stopping the resets.

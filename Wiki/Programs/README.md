@@ -58,10 +58,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Curry Hunter](PokemonSwSh/CurryHunter.md)
 
 **Eggs:**
-- [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)
-- [Egg Hatcher](PokemonSwSh/EggHatcher.md)
-- [Egg Combined 2](PokemonSwSh/EggCombined2.md)
-- [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)
+- Done - [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)
+- Done - [Egg Hatcher](PokemonSwSh/EggHatcher.md)
+- Done - [Egg Combined 2](PokemonSwSh/EggCombined2.md)
+- Done - [Egg Super-Combined 2](PokemonSwSh/EggSuperCombined2.md)
 
 **Forbidden Programs:**
 - [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)

@@ -65,7 +65,7 @@ Make only small changes at a time, no more than +/- 50 ticks at a time. Most Swi
 
 Here is an example of a lead Pokémon that is properly setup to guarantee a OHKO on Regigigas.
 
-<img src="images/ShinyHuntUnattended-Regigigas2-1.png" width="400"> <images/ShinyHuntUnattended-Regigigas2-2.png" width="400">
+<img src="images/ShinyHuntUnattended-Regigigas2-1.png" width="400"> <"images/ShinyHuntUnattended-Regigigas2-2.png" width="400">
 <img src="images/ShinyHuntUnattended-Regigigas2-3.png" width="400">
 
 ### Instructions

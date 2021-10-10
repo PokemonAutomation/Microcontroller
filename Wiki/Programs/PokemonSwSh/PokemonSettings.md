@@ -13,7 +13,7 @@ Check this box if Send Pokémon to boxes is "Automatic". Don't check if Send Pok
 
 ### Egg Fetch Extra Line:
 
-Check this box if fetching eggs from the daycare lady requires an extra line of text. This applies to Japanese (and possibily others).
+Check this box if fetching eggs from the daycare lady requires an extra line of text. This applies to Japanese, Italian (and possibily others).
 
 ### Fetch Egg Mash Delay:
 

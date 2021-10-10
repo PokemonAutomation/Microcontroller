@@ -87,7 +87,7 @@ In addition to the main options below, there are more [global options](https://g
 
 ### Raid Code:
 
-See [Raid Code Entry](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-RaidCode).
+See [Raid Code Entry](RaidCode.md).
 
 ### Frame Skips:
 

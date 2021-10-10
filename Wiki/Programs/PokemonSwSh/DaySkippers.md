@@ -67,7 +67,7 @@ The JPN and EU day skippers are the fastest and most reliable. The US skipper is
 
 Day skipper errors fall into two categories:
 1. **Missed Skip:** A single skip is missed, but the program continues to normally.
-2. **Trapping: The** program gets stuck toggling the time-sync.
+2. **Trapping:** The program gets stuck toggling the time-sync.
 
 Missed skips are harmless besides missing the skip. The program continues normally as if nothing happened. But when it finishes, it will finish short of the target number of skips. These are the most common errors.
 

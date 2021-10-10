@@ -120,7 +120,7 @@ All options here are global and will be applied to all the participating save fi
 
 ### Raid Code:
 
-See [Raid Code Entry](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-RaidCode).
+See [Raid Code Entry](RaidCode.md).
 
 ### Host Online:
 

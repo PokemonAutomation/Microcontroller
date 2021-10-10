@@ -1,5 +1,12 @@
 # Egg Hatcher
 
+**Related Programs:**
+- **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggHatcher.md) (this program)
+- **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggHatcher.md)
+
+The microcontroller and computer-control versions of this program are functionally identical.
+
+
 ## Program Description
 
 Hatch eggs from your boxes. This is the counterpart to [EggFetcher2](EggFetcher2.md).
@@ -34,8 +41,8 @@ This program does not use bike boosts, but is nevertheless roughly the same spee
 2. You must be on the first box of eggs.
 
 ### Required Parameters:
-- `BOXES_TO_HATCH`: You MUST set this to the # of boxes you wish to hatch. Otherwise, you either won't hatch all the eggs you want, or the program goes crazy if you run out of eggs.
-- `STEPS_TO_HATCH`: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small, the program will fail and may unintentionally start a trade. (see Precautions)
+- **Boxes to Hatch**: You MUST set this to the # of boxes you wish to hatch. Otherwise, you either won't hatch all the eggs you want, or the program goes crazy if you run out of eggs.
+- **Step Count**: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small, the program will fail and may unintentionally start a trade. (see Precautions)
 
 The program will hatch eggs in batches of 5 (one column at a time). Once a box is complete, it moves to the next box. It will continue until it has hatched N boxes where N is specified by **"Boxes to Hatch"**.
 

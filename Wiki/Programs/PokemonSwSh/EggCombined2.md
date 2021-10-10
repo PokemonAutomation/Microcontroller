@@ -23,7 +23,7 @@ As with the previous version of this program, hatch and fetch rates will rarely 
 
 Be aware that the complexity of this program makes it inherently less reliable than the regular EggHatcher. Unlike EggHatcher, it does not tolerate early hatching eggs and requires all eggs to hatch at the same time at the specified step count. If you need to clean up a bunch of eggs of unknown remaining step count, use EggHatcher.
 
-<img src="EggCombined2-0.png">
+<img src="images/EggCombined2-0.png">
 
 ### Setup of Settings
 

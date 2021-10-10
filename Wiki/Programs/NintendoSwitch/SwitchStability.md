@@ -6,10 +6,10 @@ This is most important to the day skippers, but it is also applicable to fault-i
 
 To maximize program stability:
 
-1. Disconnect all controllers and Joy-Cons which are known to drift. (Don’t forget the attached Joy-Cons!)
-2. Disconnect from the internet. Unplug the Ethernet cable if you’re wired up.
+1. Disconnect all controllers and Joy-Cons which are known to drift. (Don't forget the attached Joy-Cons!)
+2. Disconnect from the internet. Unplug the Ethernet cable if you're wired up.
 3. Turn on airplane mode. To run docked, un-dock the Switch, turn on airplane mode, then re-dock. The Switch will remain in airplane mode after re-docking.
-4. Restart the Switch if it’s been playing for a while.
+4. Restart the Switch if it's been playing for a while.
 
 Empirical evidence seems to suggest that completely isolating the Switch from outside interference (by shutting off all network traffic) improves stability and reduces the frequency of errors.
 

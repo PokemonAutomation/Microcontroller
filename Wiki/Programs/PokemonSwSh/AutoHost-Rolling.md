@@ -151,11 +151,11 @@ Set this value to zero to disable the feature. This option is ignored if **(Day 
 
 There are multiple timings here related to your internet connection. You may need to adjust these to ensure the auto-host works correctly.
 
-Try with the defaults first. If things don’t work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
+Try with the defaults first. If things don't work, then try increasing these timings. Likewise, if your internet connection is very fast, feel free to reduce some of these delays.
 
 ## Hosting a Soft-Lock
 
-For auto-hosting we no longer use the method of disconnecting from the raid. Instead we use a safe method involving backup saves. Here’s how it works:
+For auto-hosting we no longer use the method of disconnecting from the raid. Instead we use a safe method involving backup saves. Here's how it works:
 
 1. Save 3 (or more) frames before the shiny frame.
 2. Roll to the shiny and repeat until you get the desired Pokémon.
@@ -164,7 +164,7 @@ For auto-hosting we no longer use the method of disconnecting from the raid. Ins
 4. It hosts as if you are hardlocked. But when you reset, loads a backup save instead of regular save.
 5. When you are done hosting and you want to clear the softlock, just load the game normally. It will load back on the original saved frame that is 3 (or more) frames before the shiny.
 
-This method is safe because it doesn’t do any actual saving. If the backup save is lost, you simply lose the soft-lock. This method also works offline, but it will freeze the raid for about a minute before the raiders can start the battle.
+This method is safe because it doesn't do any actual saving. If the backup save is lost, you simply lose the soft-lock. This method also works offline, but it will freeze the raid for about a minute before the raiders can start the battle.
 
 To configure the program to load backup save instead of the regular save, set **Load Backup Save** to true.
 

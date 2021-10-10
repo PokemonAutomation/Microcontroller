@@ -81,7 +81,7 @@ While errors will still cause the skipper to fall short of the target, they will
 - **All Skippers:** If the program is stuck toggling the time-sync, it has encountered a trapping error, but has not recovered from it yet. Wait a bit and it will recover when the auto-recovery routine runs.
 - **JPN Skipper:** If the hour has changed, it means the program has missed at least one skip.
 - **JPN Skipper:** If the month and/or time zone have changed for the JPN skipper, it means that the program has encountered and recovered from a trapping error.
-- **JPN Skipper:** If the month has been changed to the current month (due to a trapping error) and is not a 31-day month, the amount of efficiency you lose is negligible. (0.1% for 30-day month, 0.3% for February) So it’s fine to just let it continue unless you have an OCD to fix it or something.
+- **JPN Skipper:** If the month has been changed to the current month (due to a trapping error) and is not a 31-day month, the amount of efficiency you lose is negligible. (0.1% for 30-day month, 0.3% for February) So it's fine to just let it continue unless you have an OCD to fix it or something.
 
 
 <hr>

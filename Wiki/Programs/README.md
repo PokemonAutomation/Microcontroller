@@ -15,7 +15,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 ## Pokémon Sword/Shield
 
-- [Pokemon Settings](PokemonSwSh/PokemonSettings.md)
+- Done - [Pokemon Settings](PokemonSwSh/PokemonSettings.md)
 - [Custom Program](PokemonSwSh/CustomProgram.md)
 
 **General Programs:**
@@ -42,11 +42,11 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Hosting:**
 - Done - [Den Roller](PokemonSwSh/DenRoller.md)
-- [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
-- [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
+- Done - [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
+- Done - [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
 
 **Shiny Hunting:**
-- [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
+- Done - [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
 - [Shiny Hunt: Regi](PokemonSwSh/ShinyHunt-Regi.md)
 - [Shiny Hunt: Swords Of Justice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
 - [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)

@@ -58,8 +58,7 @@ If you care about your den, get rid of all your wishing pieces. They are easy to
 3. Save
 4. Return game to overworld
 5. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
-6. Plug in micro-controller to start the program
-   - Or "Start Program" via serial UART if you have the setup for advanced programs
+6. Plug in micro-controller to start the program.
 
    > If hosting online, ensure you have a strong internet connection.
 
@@ -73,7 +72,7 @@ If you care about your den, get rid of all your wishing pieces. They are easy to
 
 ### Default Program Settings
 
-By default, the program will start the raid at 2:00. Everybody needs to be ready by then or the raid may fail. This can be changed by modifying `Lobby Wait Delay`.
+By default, the program will start the raid at 2:00. Everybody needs to be ready by then or the raid may fail. This can be changed by modifying "**Lobby Wait Delay**".
 
 ***
 
@@ -114,7 +113,7 @@ The idea here is to roll forward from the save frame to the shiny frame. Once on
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to "Maybe Uncatchable". If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as ALWAYS_CATCHABLE.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to "Maybe Uncatchable". If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as "Always Catchable".
 
 ### Accept Friend Requests:
 
@@ -132,7 +131,7 @@ If you are farming a Pokémon and the time between raids is too short to join co
 
 > This is a silly feature that lets you choose a first move before resetting the game.
 
-If "1st Move Select Slot" is 0, no first move is selected and the program resets as usual.
+If "**1st Move Select Slot**" is 0, no first move is selected and the program resets as usual.
 
 Otherwise, the move slot if the slot # for the move (1 = first move). The "1st Move Dynamax" option will let you dmax/gmax the Pokémon as well. 
 
@@ -144,9 +143,9 @@ If you are able to play both Sword and Shield on the Switch without changing car
 
 ### Rollover Prevention:
 
-If the den is not rolling (`Day Skips = 0`), the date will advance naturally. This means that the den being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
+If the den is not rolling (**Day Skips = 0**), the date will advance naturally. This means that the den being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
 
-Set this value to zero to disable the feature. This option is ignored if (skips > 0) since it is unnecessary.
+Set this value to zero to disable the feature. This option is ignored if **(Day Skips > 0)** since it is unnecessary.
 
 ### Internet Connection Delays:
 

@@ -122,7 +122,7 @@ This is the number of boxes to release.
 
 ### # of Boxes to Skip:
 
-This is the number of boxes to release.
+This is the number of boxes to skip.
 
 ### Boxes of Eggs to Hatch:
 

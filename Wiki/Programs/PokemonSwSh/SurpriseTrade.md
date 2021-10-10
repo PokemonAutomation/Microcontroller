@@ -62,7 +62,7 @@ When the program reaches the end of a box, it will pause for a longer period bef
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 Most of the options here are self-explanatory.
 

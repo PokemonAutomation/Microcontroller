@@ -6,7 +6,9 @@
 - **Computer Control:** [Shiny Hunt Unattended: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntUnattended-Regi.md)
 - **Computer Control:** [Shiny Hunt Autonomous: Regi](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/ShinyHuntAutonomous-Regi.md)
 
-The most advanced version of this program is the last one in the list. It can detect shinies, distinguish stars from squares, stop on them, and notify the user.
+The "Unattended" versions are functionally identical between the microcontroller and computer-control versions.
+
+The last one on the list is the most advanced. It can detect shinies, distinguish stars from squares, stop on them, and notify the user.
 
 
 ## Program Description

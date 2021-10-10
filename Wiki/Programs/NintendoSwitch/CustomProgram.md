@@ -7,7 +7,7 @@ This is a template for writing your own programs. To build your own program, you
 
 There are 4 files to each program:
 
-- `CustomProgram.c` - Settings for the program
+- `CustomProgram.c` - Settings for the program.
 - `Programs/CustomProgram.h` - Header for settings.
 - `Programs/CustomProgram_Core.c` - The program itself.
 - `GeneratorConfig/NintendoSwitch/CustomProgram.json` - Information needed to be included in the HexGenerator.

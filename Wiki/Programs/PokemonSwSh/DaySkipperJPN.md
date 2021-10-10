@@ -61,7 +61,7 @@ It is strongly recommended to read each of these sections. These are common to a
 
 ## Options
 
-<img src="images/DaySkipper-JPN-Settings.png">
+<img src="images/DaySkipperJPN-Settings.png">
 
 ### Frame Skips:
 

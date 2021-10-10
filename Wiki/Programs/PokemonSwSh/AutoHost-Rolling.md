@@ -118,7 +118,7 @@ Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any
 
 ### Accept Friend Requests:
 
-If set to zero, do not accept friend requests. Otherwise, this is the [user profile](/Wiki/Programs/NintendoSwitch/UserSlot.md) to accept friend requests for.
+If set to zero, do not accept friend requests. Otherwise, this is the [user profile](/Wiki/Programs/NintendoSwitch/UserSlotNumber.md) to accept friend requests for.
 
 Once enabled, the program will automatically accept friend-requests while waiting in the lobby. It will do this multiple times to avoid getting disconnected and to give people more chances to see the code when streaming.
 

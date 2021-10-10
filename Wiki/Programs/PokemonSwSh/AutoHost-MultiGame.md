@@ -74,7 +74,7 @@ When hosting from both Sword and Shield, the games will swap position each time 
 
 ### User Slot Position:
 
-This is the [user profile](/Wiki/Programs/NintendoSwitch/UserSlot.md) for the user that will be hosted.
+This is the [user profile](/Wiki/Programs/NintendoSwitch/UserSlotNumber.md) for the user that will be hosted.
 
 ### Backup Save:
 

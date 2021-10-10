@@ -2,7 +2,7 @@
 
 Some programs that are timing sensitive will recommend or require that Switch be put into a stabilized state where it is less likely to jitter and drop button presses.
 
-This is most important to the day skippers, but it is also applicable to fault-intolerant programs like [MassRelease](Wiki/Programs/PokemonSwSh/MassRelease.md) and [EggSuperCombined2](Wiki/Programs/PokemonSwSh/EggSuperCombined2.md).
+This is most important to the day skippers, but it is also applicable to fault-intolerant programs like [MassRelease](/Wiki/Programs/PokemonSwSh/MassRelease.md) and [EggSuperCombined2](/Wiki/Programs/PokemonSwSh/EggSuperCombined2.md).
 
 To maximize program stability:
 

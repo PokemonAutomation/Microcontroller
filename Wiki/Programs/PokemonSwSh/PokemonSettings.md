@@ -1,4 +1,4 @@
-# Pokemon Settings
+# Pokémon Settings
 
 This is a list of global settings for Pokémon Sword/Shield.
 
@@ -26,9 +26,8 @@ Time needed to mash B to fetch an egg and return to overworld when auto-deposit 
 
 Which method to use to bypass the uncatchable Pokémon prompt?
 
-Checked = Use a fast (but potentially unreliable) method.
-
-Not Checked = Use a slower (by about 5 seconds) method.
+- Checked = Use a fast (but potentially unreliable) method.
+- Not Checked = Use a slower (by about 5 seconds) method.
 
 
 ## General Advanced Timings:

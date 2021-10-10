@@ -21,7 +21,7 @@ This is the all-in-one autohost that can host all of the following:
 
 - [Soft-locked Dens](#hosting-a-soft-lock)
    - Host's a singular soft-locked mon _but_ maintains a backup save for re-rolling the den
-   - **To host a soft-locked den:** Set N to zero and set “BACKUP_SAVE” to true. (see below.)
+   - **To host a soft-locked den:** Set N to zero and check the box for "**Load Backup Save**". (see below.)
    - Follow the hyperlink above for instructions specific to hosting a soft-locked den
 
 Functionally, all this program does is repeat the following sequence forever:
@@ -108,7 +108,7 @@ Wait this long in the lobby before starting the raid. Thus the start time is 3:0
 If set to true, the game will load backup save upon soft-reset.
 
 > Use this for hosting a soft-locked den
-> This option only makes sense when `SKIPS = 0`.
+> This option only makes sense when **Day Skips** is set to zero.
 
 The idea here is to roll forward from the save frame to the shiny frame. Once on the shiny frame (with the desired softlock), you enter and exit the camp to setup a backup save on the shiny frame. That way, you can load the backup save on the shiny frame while leaving the real save safely 3 or more frames before.
 
@@ -118,7 +118,7 @@ Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any
 
 ### Accept Friend Requests:
 
-If set to zero, do not accept friend requests. Otherwise, this is the [user profile](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-UserSlotNumber) to accept friend requests for.
+If set to zero, do not accept friend requests. Otherwise, this is the [user profile](/Wiki/Programs/NintendoSwitch/UserSlot.md) to accept friend requests for.
 
 Once enabled, the program will automatically accept friend-requests while waiting in the lobby. It will do this multiple times to avoid getting disconnected and to give people more chances to see the code when streaming.
 
@@ -167,7 +167,7 @@ For auto-hosting we no longer use the method of disconnecting from the raid. Ins
 
 This method is safe because it doesn’t do any actual saving. If the backup save is lost, you simply lose the soft-lock. This method also works offline, but it will freeze the raid for about a minute before the raiders can start the battle.
 
-To configure the program to load backup save instead of the regular save, set “BACKUP_SAVE” to true.
+To configure the program to load backup save instead of the regular save, set **Load Backup Save** to true.
 
 > *For water dens, you will not be able to camp. However, here are some alternatives:*
 > 1. *Go into Y-COMM, then join and clear a random raid. This will establish a backup save.*

@@ -19,7 +19,6 @@ Be patient. Learn algebra before attempting Calculus.
 - [See Releases](https://github.com/PokemonAutomation/Microcontroller/releases)
 
 **Contents:**
-- [Introduction](#Introduction)
 - [Hardware Setup](Wiki/Hardware/README.md)
 - [Software Setup](Wiki/Software/README.md)
 - [Program List](Wiki/Programs/README.md)
@@ -29,5 +28,3 @@ Be patient. Learn algebra before attempting Calculus.
 - [Version History](Wiki/VersionHistory.md)
 
 <img src="Wiki/images/server-banner.png" width="800">
-
-## Introduction

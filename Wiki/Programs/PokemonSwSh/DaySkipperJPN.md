@@ -69,10 +69,6 @@ Skip this many frames. The actual number of skips performed may be less if any e
 
 This can be as large as 4,294,967,295. But it will take 60+ years to skip that many frames.
 
-## Advanced Settings:
-
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
-
 ### Auto-Recover Interval:
 
 Perform an auto-recovery every this number of skips. This is the recovery routine that recovers from trapping errors. You shouldn’t need to touch this value.

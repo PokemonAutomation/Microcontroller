@@ -82,6 +82,8 @@ When correctly calibrated:
 
 This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
+<img src="images/ShinyHuntUnattended-Regigigas-Settings.png">
+
 ### Start to Attack Delay:
 
 This is the delay from when talk to the den to when you attack Regigigas. This is the critical parameter that needs to be properly calibrated.

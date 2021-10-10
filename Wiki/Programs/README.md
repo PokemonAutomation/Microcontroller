@@ -26,10 +26,11 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Ball Thrower](PokemonSwSh/BallThrower.md)
 
 **Date-Spam Farmers:**
-- [Date Spam - WattFarmer](PokemonSwSh/DateSpam-WattFarmer.md)
-- [Date Spam - BerryFarmer](PokemonSwSh/DateSpam-BerryFarmer.md)
-- [Date Spam - StowOnSideFarmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
-- [Date Spam - DailyHighlightFarmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
+- [Date Spam - Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)
+- [Date Spam - Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)
+- [Date Spam - Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)
+- [Date Spam - Stow-on-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
+- [Date Spam - Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
 **Shiny Hunting:**
 - [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)

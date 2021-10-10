@@ -34,7 +34,7 @@ MassRelease will release entire boxes of Pokémon. The main use case is getting 
    > Once started, this program will release the specified number of boxes consecutively starting from the current box.
 
 ### Safety Recommendations:
-See [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-MaximizingSwitchStability).
+See [Maximizing Switch Stability](/Wiki/Programs/NintendoSwitch/SwitchStability.md).
 
 
 ## Options

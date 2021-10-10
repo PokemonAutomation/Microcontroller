@@ -47,7 +47,7 @@ If you care about your den, get rid of all your wishing pieces. They are easy to
 2. Casual Mode: Off
 3. Text Speed: Fast
 
-   > If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to open up `PokemonSettings.c` and change `START_GAME_REQUIRES_INTERNET` to true.
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
 
 ## Instructions
 
@@ -65,11 +65,11 @@ If you care about your den, get rid of all your wishing pieces. They are easy to
 
 ## Optional Features
 
-- Host offline using local communication instead of online
-- Automatically accept friend requests
-- Add a delay between raids to make farming more efficient when you can't clear a raid before the next one starts
-- Select a first move for the hosting Pokémon
-- Troll host and attack your allies for more challenge
+- Host offline using local communication instead of online.
+- Automatically accept friend requests.
+- Add a delay between raids to make farming more efficient when you can't clear a raid before the next one starts.
+- Select a first move for the hosting Pokémon.
+- Troll host and attack your allies for more challenge.
 
 ### Default Program Settings
 

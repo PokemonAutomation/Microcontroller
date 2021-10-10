@@ -24,7 +24,7 @@ This skipper works by looping through all 22,280 days from 2000/1/1 to 2060/12/3
 
 However, this slight increase in efficiency comes at a cost. The 7.8k skipper is less tolerant to errors. Unlike the other skippers in this package, the 7.8k skipper cannot always fully recover from every error.
 
-While the 7.8k skipper can recover from minor errors, major errors will cause it to lose track of the date and thus run at a degraded speed of about 7570 skips/hour – which is slightly worse than the regular JPN date skipper. Likewise, once the program enters this “off-track” state, about 3.3% of the skips will be dropped which will cause the program fall significantly short of the target number of skips.
+While the 7.8k skipper can recover from minor errors, major errors will cause it to lose track of the date and thus run at a degraded speed of about 7570 skips/hour – which is slightly worse than the regular JPN date skipper. Likewise, once the program enters this "off-track" state, about 3.3% of the skips will be dropped which will cause the program fall significantly short of the target number of skips.
 
 ### Setup of Settings
 

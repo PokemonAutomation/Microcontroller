@@ -21,7 +21,7 @@ MultiGameFossil is a more advanced fossil reviving program that can revive fossi
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. Have “Send to Boxes” set to “Automatic”.
+3. Have "Send to Boxes" set to "Automatic".
 4. Have nicknaming off.
 5. Have the Pokédex entry for the Pokémon they are reviving.
 6. Have spoken to the professor before.
@@ -70,7 +70,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 ## Troubleshooting
 
 - If you forgot to load the backup save and thus have a game full of non-shiny fossils, DO NOT fly! Flying will overwrite the backup save causing you to lose all the fossils that were used.
-- When exiting Pokémon Home, you MUST select “exit without saving changes”. If you exit saving changes, it will hard-save and wipe the backup save even if you made no changes!
+- When exiting Pokémon Home, you MUST select "exit without saving changes". If you exit saving changes, it will hard-save and wipe the backup save even if you made no changes!
 
 ***
 

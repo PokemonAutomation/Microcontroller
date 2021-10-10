@@ -102,7 +102,7 @@ Thus, the key is to run from the non-shiny encounter within 2 seconds of the bat
 
 Demo Video: https://cdn.discordapp.com/attachments/755635697737531544/772244388109090817/ShinyTerrakion.mp4
 
-*The difficulty of the unattended shiny hunting programs is that the “branching sequence” needs to happen during that 2 second window. Due to differences and variations between different Switch systems and environments, the delays to when the battle menu appears will be different. There is no one setting that fits all. Therefore, all unattended shiny-hunting programs require calibration to work properly.*
+*The difficulty of the unattended shiny hunting programs is that the "branching sequence" needs to happen during that 2 second window. Due to differences and variations between different Switch systems and environments, the delays to when the battle menu appears will be different. There is no one setting that fits all. Therefore, all unattended shiny-hunting programs require calibration to work properly.*
 
 
 

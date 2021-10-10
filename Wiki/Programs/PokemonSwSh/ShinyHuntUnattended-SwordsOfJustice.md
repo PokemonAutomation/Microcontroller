@@ -126,6 +126,7 @@ This feature will also prevent any unintentional day-skips that will destroy any
 These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
 
 ### Enter Camp Delay:
+
 Wait this long after entering camp before you leave.
 
 

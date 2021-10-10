@@ -38,7 +38,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Automatic”.
+3. The "Send to Boxes" option must be set to "Automatic".
 
 ### Setup of Party
 

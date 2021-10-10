@@ -61,7 +61,7 @@ Make only small changes at a time, no more than +/- 50 ticks at a time. Most Swi
 
 The screenshot below shows what your party should look like. Note that the burn on the non-fainted Pokémon ensures that it dies in one turn. Once you encounter a shiny, you need to immediately heal.
 
-<img src="images/ShinyHuntUnattended-Regigigas-0.png">
+<img src="images/ShinyHuntUnattended-Regigigas-1.png">
 
 ### Instructions
 

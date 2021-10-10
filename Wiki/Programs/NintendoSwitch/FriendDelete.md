@@ -26,13 +26,6 @@ Once you’ve auto-hosted enough, your friend list is going to fill up. FriendDe
 5. With the cursor over the last person, start this program. The program will delete your friends one-by-one from the back of the list.
 6. Once it has reached your "best" friends, stop the program.
 
-### Default Program Settings
-
-> If you know exactly how many friends you wish to delete from the back of your list, you can set the `friends_to_delete` parameter accordingly and it will stop by itself when it's done.
-
-Required Parameters:
-- `friends_to_delete`: You must set this parameter to the # of friends you wish to delete. Otherwise, you may end up deleting friends you didn't intend to delete.
-
 ### Implementation Notes:
 
 Please note the following prior to use:

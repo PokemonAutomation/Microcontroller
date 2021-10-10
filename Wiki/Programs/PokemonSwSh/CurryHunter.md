@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-This program will endlessly cook curry, and it will catch the Pokémon coming to your camp. It doesn't stop on a shiny, so you will need to check all the Pokémons in your boxes once you stop the program.
+This program will endlessly cook curry, and it will catch the Pokémon coming to your camp. It doesn't stop on a shiny, so you will need to check all the Pokémon in your boxes once you stop the program.
 
 An entire run (cooking curry + attracting the Pokémon) takes around 2 mins 30 seconds. With Charizard class curry, you are supposed to have a 1 in 4 chance of getting a curry encounter (assuming you follow the Setup regarding your team). In addition to that, curry encounters are really likely to be full odds. Thus, the average time of a curry hunt is around 28 days.
 
@@ -29,13 +29,13 @@ To cook a Charizard class curry, the bot will use one ingredient and two berries
 
 In addition to that, you will need a specific party, to make sure you will be able to attract the curry Pokémon. 
 
-1. A party of small and slow Pokémons such as meltan, snom is **higlhy** recommanded. This is to make sure your Pokémons don't come to you too quickly, giving you the time to attract the curry Pokémon. 
-2. You want a full party of 6 Pokémons. This boosts the odds of getting a Pokémon coming to your camp after cooking curry.
-3. You want all of your party Pokémons to have max friendship and max sociability. This also boosts the odds of getting a Pokémon coming to your camp after cooking curry. 
+1. A party of small and slow Pokémon such as Meltan, Snom is **highly** recommanded. This is to make sure your Pokémon don't come to you too quickly, giving you the time to attract the curry Pokémon. 
+2. You want a full party of 6 Pokémon. This boosts the odds of getting a Pokémon coming to your camp after cooking curry.
+3. You want all of your party Pokémon to have max friendship and max sociability. This also boosts the odds of getting a Pokémon coming to your camp after cooking curry. 
 
-To know if 2 Pokémons maxed out their sociability, you have to talk to both in the camp. The only message showing that the sociability of both Pokémons is maxed is the following "Pokémon A and Pokémon B seem to be best friends !".
+To know if 2 Pokémon maxed out their sociability, you have to talk to both in the camp. The only message showing that the sociability of both Pokémon is maxed is the following "Pokémon A and Pokémon B seem to be best friends !".
 
-Last but not least, you will need some balls to catch the Pokémons coming to your camp. These Pokémons can only be caught in Poké ball, Great ball or Ultra ball. If you don't have any of these 3 balls, you won't get any Pokémon spawning in your camp. So just buying 999 of your favorite ball out of these the 3 listed above.
+Last but not least, you will need some balls to catch the Pokémon coming to your camp. These Pokémon can only be caught in Poké ball, Great ball or Ultra ball. If you don't have any of these 3 balls, you won't get any Pokémon spawning in your camp. So just buying 999 of your favorite ball out of these the 3 listed above.
 
 Now, you are ready to cook curry.
 

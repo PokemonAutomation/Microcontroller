@@ -112,7 +112,7 @@ If you are farming a Pokémon and the time between raids is too short to join co
 
 ## Global Options:
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_SLOW`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (slow)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
 
 In addition to the main options below, there are more [global options](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings) that can be configured if you encounter problems.
 

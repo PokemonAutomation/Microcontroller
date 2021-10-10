@@ -60,7 +60,7 @@ Once you have revived a ton of fossils, you need to check if there are any shini
 
 ## Options
 
-This program uses [`TOLERATE_SYSTEM_UPDATE_MENU_FAST`](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
+This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
 <img src="images/MultiGameFossil-Settings.png">
 

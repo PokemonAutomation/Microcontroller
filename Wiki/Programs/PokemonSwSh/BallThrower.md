@@ -36,7 +36,7 @@ This program blindly throws balls without context. Thus the only way it can work
 
 ### Setup of Settings
 
-1. Test Speed: Fast
+1. Text Speed: Fast
 2. Casual mode: Off
 3. The “Send to Boxes” option must be set to “Automatic”.
 
@@ -47,7 +47,8 @@ This program blindly throws balls without context. Thus the only way it can work
 1. A Pokémon(s) with False Swipe and a paralyzing move
    1. These can be separate Pokémon if you wish.
 2. A Pokémon that knows Soak or Magic Powder
-   1. To change the typing from Ghost and allow you to hit it with False Swipe
+   1. To change the typing from Ghost and allow you to hit it with False Swipe.
+   1. To change the typing from Electric and allow you to paralyze it.
 3. A Pokémon that can wall the Legendary you are hunting
    1. See the associated [Pokémon Walls](PokemonWalls.md) appendix page.
    2. With the exception of Zapdos and Calyrex (Ghost), every single legendary in Sword/Shield has a wall that is completely immune to it.
@@ -85,8 +86,8 @@ Example of Trevenant:
    2. Electric Pokémon cannot be paralyzed.
 5. Prevent the Opposing Pokémon from running out of PP.
    1. Early in the battle, you should send out Trevenant and use both Skill Swap and Trick. This moves the PP-restoring Leppa Berry onto the opposing Pokémon and changes its ability to Harvest so that the berry is restored after use. This setup prevents it from ever running out of PP.
-6. Swap to your [Pokémon wall](PokemonWalls.md)
-7. Place cursor over "Pokémon" button (while in battle)
+6. Swap to your [Pokémon wall](PokemonWalls.md).
+7. Place cursor over "Pokémon" button (while in battle).
 8. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
 
 ### Default Program Settings

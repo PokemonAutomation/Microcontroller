@@ -22,7 +22,7 @@ Use this program to roll for a specific Pokémon in your den.
 2. Casual mode: Off
 3. System time: Un-synced
 
-> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to open up `PokemonSettings.c` and change `START_GAME_REQUIRES_INTERNET` to true.*
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
 
 ### Instructions
 

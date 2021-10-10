@@ -29,7 +29,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Date Spam - Watt Farmer](PokemonSwSh/DateSpam-WattFarmer.md)
 - [Date Spam - Berry Farmer](PokemonSwSh/DateSpam-BerryFarmer.md)
 - [Date Spam - Loto Farmer](PokemonSwSh/DateSpam-LotoFarmer.md)
-- [Date Spam - Stow-on-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
+- [Date Spam - Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
 - [Date Spam - Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
 **Shiny Hunting:**

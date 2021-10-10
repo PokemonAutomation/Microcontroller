@@ -40,7 +40,7 @@ This program does not have the ability to avoid the system update window. Should
 
 Most of the options here are self-explanatory.
 
-<img src="images/DateSpam-WattFarmer.png">
+<img src="images/DateSpam-WattFarmer-Settings.png">
 
 
 <hr>

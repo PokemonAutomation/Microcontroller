@@ -55,7 +55,7 @@ Soft-reset for a shiny Sword of Justice. This program requires you to watch it s
 
 This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) to bypass the system update window.
 
-<img src="images/ShinyHunt-SwordsOfJustice-Settings.jpg">
+<img src="images/ShinyHunt-SwordsOfJustice-Settings.png">
 
 ### Exit Camp to Run Delay:
 

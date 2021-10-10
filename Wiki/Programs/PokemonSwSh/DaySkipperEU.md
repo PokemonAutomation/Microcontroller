@@ -57,7 +57,7 @@ When the program finishes skipping, it will continue to enter/exit the date chan
 ### Day Skipper Appendix:
 
 It is strongly recommended to read each of these sections. These are common to all the day skippers.
-- [Maximizing Switch Stability](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-MaximizingSwitchStability)
+- [Maximizing Switch Stability](/Wiki/Programs/NintendoSwitch/SwitchStability.md)
 - [Common Usage Errors](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-DaySkippers#common-usage-errors)
 - [How Many Skips are Remaining?](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-DaySkippers#how-many-skips-are-remaining)
 - [Errors and Auto-Corrections](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-DaySkippers#errors-and-auto-corrections)

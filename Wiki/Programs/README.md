@@ -8,10 +8,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 ## Nintendo Switch
 
-- [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
-- [Turbo A](NintendoSwitch/TurboA.md)
-- [Friend Delete](NintendoSwitch/FriendDelete.md)
-- [PABotBase](NintendoSwitch/PABotBase.md)
+- Done - [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
+- Done - [Turbo A](NintendoSwitch/TurboA.md)
+- Done - [Friend Delete](NintendoSwitch/FriendDelete.md)
+- Done - [PABotBase](NintendoSwitch/PABotBase.md)
 
 ## Pokémon Sword/Shield
 
@@ -19,10 +19,10 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Custom Program](PokemonSwSh/CustomProgram.md)
 
 **General Programs:**
-- [Mass Release](PokemonSwSh/MassRelease.md)
-- [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
-- [Trade Bot](PokemonSwSh/TradeBot.md)
-- [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
+- Done - [Mass Release](PokemonSwSh/MassRelease.md)
+- Done - [Surprise Trade](PokemonSwSh/SurpriseTrade.md)
+- Done - [Trade Bot](PokemonSwSh/TradeBot.md)
+- Done - [Clothing Buyer](PokemonSwSh/ClothingBuyer.md)
 - [Ball Thrower](PokemonSwSh/BallThrower.md)
 
 **Date-Spam Farmers:**

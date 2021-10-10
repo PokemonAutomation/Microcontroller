@@ -35,3 +35,10 @@ When there is a system update available, it adds an extra prompt each time you s
 Some programs can bypass this update menu, but at little significant cost. Checking this box will enable this. This is disabled by default.
 
 
+
+<hr>
+
+**Discord Server:** 
+
+[<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+

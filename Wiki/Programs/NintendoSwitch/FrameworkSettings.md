@@ -28,7 +28,7 @@ When there is a system update available, it adds an extra prompt each time you s
 
 Some programs can bypass this update menu at little performance cost. Checking this box will enable this.
 
-### Tolerate System Update Menu (fast)
+### Tolerate System Update Menu (slow)
 
 When there is a system update available, it adds an extra prompt each time you start or re-enter a game. This prompt can break programs.
 

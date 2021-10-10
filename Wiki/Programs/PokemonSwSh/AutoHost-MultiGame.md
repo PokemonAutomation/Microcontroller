@@ -82,7 +82,7 @@ If set to true, the game will load backup save upon soft-reset.
 
 The idea here is to roll forward from the save frame to the shiny frame. Once on the shiny frame (with the desired softlock), you enter and exit the camp to setup a backup save on the shiny frame. That way, you can load the backup save on the shiny frame while leaving the real save safely 3 or more frames before
 .
-This option only makes sense when `SKIPS = 0`.
+This option only makes sense when **(Skips = 0)**.
 
 ### Catchability:
 
@@ -100,9 +100,9 @@ Set to true if you wish to accept friend requests for the user for this den.
 
 This is a silly feature that lets you choose a first move before resetting the game.
 
-If `1st Move` is 0, no first move is selected and the program resets as usual.
+If **(1st Move = 0)**, no first move is selected and the program resets as usual.
 
-Otherwise, the move slot if the slot # for the move (1 = first move). The flag `.dynamax` will let you dmax/gmax the Pokémon as well.
+Otherwise, the move slot if the slot # for the move (1 = first move). The **Dynamax** box will let you dmax/gmax the Pokémon as well.
 
 ### Additional Raid Delay:
 
@@ -142,9 +142,9 @@ This option lets you shift the order of the FR accepts so that the accepted FRs 
 
 ### Rollover Prevention:
 
-If none of the dens are rolling (`SKIPS = 0`), the date will advance naturally. This means that the dens being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
+If none of the dens are rolling (**SKIPS = 0**), the date will advance naturally. This means that the dens being hosted will eventually roll over. To prevent this, the auto-host will periodically touch the date at the specified interval.
 
-Set this value to zero to disable the feature. This option is ignored if at least one den has (SKIPS > 0).
+Set this value to zero to disable the feature. This option is ignored if at least one den has (**SKIPS > 0**).
 
 ### Internet Connection Delays:
 

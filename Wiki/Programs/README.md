@@ -51,7 +51,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Shiny Hunt: Swords Of Justice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
 - Done - [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
 - Done - [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
-- [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- Done - [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
 - [Shiny Hunt Unattended - Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
 - [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
 - [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)

@@ -1,4 +1,4 @@
-# Day Skipper (EU)
+# Day Skipper (US)
 
 **Related Programs:**
 - **Microcontroller:** [Day Skipper (JPN)](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/DaySkipperJPN.md)

@@ -1,27 +1,24 @@
-# Egg Combined 2
+# Egg Super Combined 2
 
 **Related Programs:**
-- **Microcontroller:** [Egg Combined 2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggCombined2.md) (this program)
-- **Computer Control:** [Egg Combined 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggCombined2.md)
+- **Microcontroller:** [Egg Super-Combined 2](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSwSh/EggSuperCombined2.md) (this program)
+- **Computer Control:** [Egg Super-Combined 2](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSwSh/EggSuperCombined2.md)
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
 
 ## Program Description
 
-This is the combined egg fetching+hatching program. When used properly, it is nearly as fast as manual hatching.
+Run [MassRelease](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Basic:-MassRelease), then run [EggCombined2](EggCombined2.md).
 
-This program is capable of sustaining upwards of ***1700 eggs/day*** (5120 step) even when including time to perform mass release. Thus this is one of the fastest (if not the fastest) automatic egg hatcher that does not require custom firmware.
+> ***Do not** use this program until you are familiar with EggCombined since this is literally the same thing, but with an extra mass-release step. Therefore it is even more tricky to use correctly and safely.*
 
-The EggCombined programs require setup so they may be less convenient if you are only trying to hatch one or two shinies of a specific species. But if you are hatching for squares, then this is definitely the program for you.
+EggSuperCombined2 is the most optimized of the egg programs in this package. When used properly, it can allow 24/7 hatching while requiring the user to only touch the Switch twice a day. Thus this program is most suitable for mass production of hatched shinies - especially multiple Switches where you want to minimize the amount of interaction required for each Switch.
 
-This program requires that you already have a “reservoir” of eggs (recommended at least 3 boxes). You can run [EggFetcher2](EggFetcher2.md) to obtain these eggs.
-
-Starting with this reservoir of eggs, this program will hatch those eggs while simultaneously fetching more eggs. Newly fetched can be hatched within the same run of the program. Thus with just 3 boxes of eggs, you can keep hatching until you run out of box space.
-
-As with the previous version of this program, hatch and fetch rates will rarely be perfectly synced. Thus the reservoir of eggs will slowly increase or decrease as the program runs. So every once in a while, you will need to adjust the number of eggs with EggFetcher2 or [EggHatcher](EggHatcher.md). Advanced users can adjust the fetch rates in this program to keep the reservoir of eggs at the desired size.
-
-Be aware that the complexity of this program makes it inherently less reliable than the regular EggHatcher. Unlike EggHatcher, it does not tolerate early hatching eggs and requires all eggs to hatch at the same time at the specified step count. If you need to clean up a bunch of eggs of unknown remaining step count, use EggHatcher.
+   * As with EggCombined2, this program will sustain upwards ***1700 eggs/day*** (5120 step) when used properly.
+   * The idea of EggSuperCombined is to automate away the mass-release that's needed between EggCombined runs. So between runs after removing the shinies, you no longer need to run and wait for MassRelease to finish through before starting the next batch of eggs. Thus, the "interrupt" time between runs is now on the order of a few minutes instead of an hour to release 20+ boxes.
+   * So you hatch eggs overnight. When you wake up in the morning, spend only a few minutes to remove shinies and fix boxes. Then start EggSuperCombined before heading to work. This allows you to hatch eggs 24/7 while touching the Switch only 2 or 3 times a day.
+   * Experienced users will be able to sustain 24/7 hatching using only this program. The size of the egg reservoir can be kept in check by modifying the **"Fetches per Batch"** parameter.
 
 <img src="images/EggCombined2-0.png">
 
@@ -46,10 +43,11 @@ Be aware that the complexity of this program makes it inherently less reliable t
 
 ### Pokémon Box Setup
 
-1. Place entire boxes filled with eggs consecutively
-   > It is okay to have non-eggs mixed in with eggs, but all boxes you intend to hatch must be completely filled with something.
-2. You must be on the first box of eggs.
-3. All the eggs that you are hatching MUST hatch at the same time and at the specified # of steps. Eggs are not allowed to hatch early
+1. The next N boxes can contain anything. They will be skipped.
+2. Place entire boxes filled with eggs consecutively
+   > It is okay to have non-eggs mixed in with eggs, But all boxes that you intend to hatch must be completely filled.
+3. You must be on the first box of Pokémon to be released.
+4. All the eggs that you are hatching MUST hatch at the same time and at the specified # of steps. Eggs are not allowed to hatch early
    > *Do not use this program on partially hatched eggs. Even a single early hatching egg can break the program.*
 
 > **Failure Cases:**
@@ -57,16 +55,48 @@ Be aware that the complexity of this program makes it inherently less reliable t
 > * It is NOT safe to hatch an incomplete column due to running out of eggs. This will lead to an incomplete party being loaded which will swallow up newly fetched eggs. These eggs will not hatch at the correct time which will completely break the program.
 > * It is NOT safe for eggs to hatch early. If an egg hatches during a fetch attempt, it can put the program into an unexpected state.
 
+
+**Example Box Layout:**
+```
+Box  1: empty
+Box  2: empty
+Box  3: 30 breedjects 
+Box  4: 30 breedjects
+Box  5: 30 breedjects
+Box  6: 15 breedjects
+Box  7: your regular Pokémon
+Box  8: 30 eggs
+Box  9: 30 eggs
+Box 10: 30 eggs
+Box 11: 25 eggs
+Box 12: empty
+Box 13: empty
+......
+Box 32: empty
+```
+If using the above box layout; configure EggSuperCombined with these settings:
+```
+Boxes to Release    =   3
+Boxes to Skip       =   2
+Boxes to Hatch      =   30
+```
+Starting with Box 3 as the current box, the program will:
+1. Release 3 boxes: 3, 4, 5
+2. Skip 2 boxes: 6, 7
+3. Run EggCombined for 30 boxes: 8-32 (wrap-around) 1-5
+
 ### Required Parameters:
+- **Boxes to Release**: You MUST set this parameter correctly or you may release Pokémon you didn't intend to release!
+- **Boxes to Skip**: You MUST set this parameter correctly or you may not hatch the correct boxes.
 - **Boxes to Hatch**: You MUST set this to the # of boxes you wish to hatch. Otherwise, you either won't hatch all the eggs you want, or the program goes crazy if you run out of eggs.
-- **Step Count**: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small, the program will fail and may unintentionally start a trade. (see Precautions)
+- **Step Count**: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small or too large, the program will fail and may unintentionally start a trade. (see Precautions)
 
-The program will hatch eggs in batches of 5 (one column at a time). Once a box is complete, it moves to the next box. It will continue until it has hatched N boxes where N is specified by **"Boxes to Hatch"**.
+   > All recommendations, precautions, and usage tips for EggCombined apply to this program as well.
 
-Newly fetched eggs will be dropped one box ahead of the one that's being hatched. These will spill forward to later boxes as necessary, thus it is possible to set **"Boxes to Hatch"** to more than what you have. But you will need to monitor the program to make sure it fetches eggs quickly enough to keep up with the hatching.
-
-### Safety Recommendations:
-- As a precaution, it is strongly recommended to be offline. In the event that the eggs do not finish hatching before the program enters the storage system, there is a high chance that it will go into YCOMM and start a trade.
+### Additional Recommendations:
+- See [Maximizing Switch Stability](/Wiki/Programs/NintendoSwitch/SwitchStability.md). The MassRelease portion of this program is sensitive to jitter.
+- Don't leave any Pokémon you care about in the game. It goes without saying that mass-release is inherently dangerous to run unattended.
+- Use a dedicated game with 32 empty boxes. If you're at the point where you're considering this program for optimized egg hatching, you might as well just speedrun a new game and shiny charm it with a living dex that you probably already have sitting in Pokémon Home.
 
 ### Run Instructions
 
@@ -84,7 +114,15 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
-<img src="images/EggCombined2-Settings.png">
+<img src="images/EggSuperCombined2-Settings.png">
+
+### # of Boxes to Release:
+
+This is the number of boxes to release.
+
+### # of Boxes to Skip:
+
+This is the number of boxes to release.
 
 ### Boxes of Eggs to Hatch:
 
@@ -101,7 +139,7 @@ For each batch of eggs, attempt this many egg fetches. If this is a non-integer,
 By changing this number you can adjust the fetch rate of eggs. Thus with careful tuning, you can make egg fetching nearly the same speed as hatching.
 
 Since there are 5 eggs per batch, you will need to set this value to more than 5.0 to match the hatch rate since some fetches will fail. The optimal value will depend on the step count and the compatibility of the parents.
-Since this program is new, the exact fetch rates that lead to fetch/hatch equilibrium is not yet known. But they are believed to all be between 5.1 and 6.5.
+Since this program is new, the exact fetch rates that lead to fetch/hatch equilibriums are not yet known. But they are believed to all be between 5.1 and 6.5.
 
 ### Rollover Prevention:
 
@@ -109,8 +147,8 @@ This is useful if your game is holding a den and you do not want an unintentiona
 
 Prevent the den from rolling over by periodically touching the date at this interval. Set this value to zero to disable the feature.
 
-## Advanced Settings:
 
+## Advanced Settings:
 These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
 
 ### Safety Time:

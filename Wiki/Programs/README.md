@@ -11,7 +11,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Framework Setttings](NintendoSwitch/FrameworkSettings.md)
 - Done - [Turbo A](NintendoSwitch/TurboA.md)
 - Done - [Friend Delete](NintendoSwitch/FriendDelete.md)
-- [Custom Program](PokemonSwSh/CustomProgram.md)
+- [Custom Program](NintendoSwitch/CustomProgram.md)
 - Done - [PABotBase](NintendoSwitch/PABotBase.md)
 
 ## Pokémon Sword/Shield

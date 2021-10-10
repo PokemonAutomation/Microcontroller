@@ -32,18 +32,6 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Date Spam - Stow-On-Side Farmer](PokemonSwSh/DateSpam-StowOnSideFarmer.md)
 - [Date Spam - Daily Highlight Farmer](PokemonSwSh/DateSpam-DailyHighlightFarmer.md)
 
-**Shiny Hunting:**
-- [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
-- [Shiny Hunt: Regi](PokemonSwSh/ShinyHunt-Regi.md)
-- [Shiny Hunt: Swords Of Justice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
-- [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
-- [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
-- [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
-- [Shiny Hunt Unattended - Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
-- [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
-- [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- [Curry Hunter](PokemonSwSh/CurryHunter.md)
-
 **Den Hunting:**
 - [Beam Reset](PokemonSwSh/BeamReset.md)
 - [Event Beam Finder](PokemonSwSh/EventBeamFinder.md)
@@ -56,6 +44,18 @@ Nearly all microcontroller programs are also available as computer-control progr
 - [Den Roller](PokemonSwSh/DenRoller.md)
 - [Auto-Host Rolling](PokemonSwSh/AutoHost-Rolling.md)
 - [Auto-Host Multi-Game](PokemonSwSh/AutoHost-MultiGame.md)
+
+**Shiny Hunting:**
+- [Multi-Game Fossil Revive](PokemonSwSh/MultiGameFossil.md)
+- [Shiny Hunt: Regi](PokemonSwSh/ShinyHunt-Regi.md)
+- [Shiny Hunt: Swords Of Justice](PokemonSwSh/ShinyHunt-SwordsOfJustice.md)
+- [Shiny Hunt Unattended - Regi](PokemonSwSh/ShinyHuntUnattended-Regi.md)
+- [Shiny Hunt Unattended - Swords Of Justice](PokemonSwSh/ShinyHuntUnattended-SwordsOfJustice.md)
+- [Shiny Hunt Unattended - Strong Spawn](PokemonSwSh/ShinyHuntUnattended-StrongSpawn.md)
+- [Shiny Hunt Unattended - Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
+- [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
+- [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
+- [Curry Hunter](PokemonSwSh/CurryHunter.md)
 
 **Eggs:**
 - [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)

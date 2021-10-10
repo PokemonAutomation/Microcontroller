@@ -1,8 +1,8 @@
 # Framework Settings
 
-This is a list of global settings for the NintendoSwitch.
+This is a list of global settings for the Nintendo Switch.
 
-<img src="images/FrameworkSettings.png">
+<img src="images/FrameworkSettings-0.png">
 
 ### Connection Controller Delay
 

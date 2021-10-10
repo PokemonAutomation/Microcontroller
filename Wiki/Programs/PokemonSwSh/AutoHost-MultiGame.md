@@ -40,9 +40,7 @@ If you have 8 user profiles and the ability to play both Sword and Shield withou
 5. Close all games across all systems.
 6. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
 
-> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to open up `PokemonSettings.c` and change `START_GAME_REQUIRES_INTERNET` to true.*
-> 
-> *If any den has uncatchable Pokémon (like Mewtwo or Zeraora), you need to set a flag to bypass that extra prompt. See Uncatchable Pokémon Prompt.*
+> *If starting the game requires checking the internet (because it is digital on a non-primary Switch), you will need to enable ["**Start Game Requires Internet**"](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#start-game-requires-internet).
 
 
 ## Options:
@@ -88,7 +86,7 @@ This option only makes sense when `SKIPS = 0`.
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must this to false. If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as true.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to false. If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as true.
 
 ### Frame Skips:
 
@@ -114,7 +112,7 @@ If you are farming a Pokémon and the time between raids is too short to join co
 
 This program uses [**Tolerate System Update Menu (slow)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
 
-In addition to the main options below, there are more [global options](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings) that can be configured if you encounter problems.
+In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
 All options here are global and will be applied to all the participating save files.
 

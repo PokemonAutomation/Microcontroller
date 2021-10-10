@@ -81,7 +81,7 @@ By default, the program will start the raid at 2:00. Everybody needs to be ready
 
 This program uses [**Tolerate System Update Menu (slow)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-slow) to bypass the system update window.
 
-In addition to the main options below, there are more [global options](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-GlobalSettings) that can be configured if you encounter problems.
+In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
 <img src="images/AutoHost-Rolling-Settings.png">
 
@@ -114,7 +114,7 @@ The idea here is to roll forward from the save frame to the shiny frame. Once on
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must this to "Maybe Uncatchable". If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as ALWAYS_CATCHABLE.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to "Maybe Uncatchable". If the den has uncatchable Pokémon, but it is hard-locked in a way that prevents any of them from showing up while rolling or hosting, then it is safe to leave this as ALWAYS_CATCHABLE.
 
 ### Accept Friend Requests:
 

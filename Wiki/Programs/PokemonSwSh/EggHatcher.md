@@ -70,7 +70,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 In addition to the main options below, there are more [global options](PokemonSettings.md) that can be configured if you encounter problems.
 
-<img src="images/EggHatcher-Settings.png">.
+<img src="images/EggHatcher-Settings.png">
 
 ### Boxes of Eggs to Hatch:
 

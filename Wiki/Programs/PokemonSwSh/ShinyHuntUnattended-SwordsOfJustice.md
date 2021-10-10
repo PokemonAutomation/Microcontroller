@@ -27,7 +27,7 @@ Hunt for shiny Swords of Justice and Spiritomb.
 
 Before you continue, first read the appendix on unattended shiny-hunting calibration to better understand how the process works. _**Do not just fire up this program and expect it to work. Way too many people are overly eager and skip calibration just to end up wasting many hours from locking on false positives or running from shinies.**_
 
-Section: [Unattended Shiny-Hunting Calibration](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-UnattendedShinyHunting#calibrating-unattended-shiny-hunting)
+Section: [Unattended Shiny-Hunting Calibration](UnattendedShinyHunting.md#calibrating-unattended-shiny-hunting)
 
 The variable that controls the critical delay for this program is **"Exit Camp to Run Delay"**.
 - When the encounter is not shiny, the LEDs should turn on ***0.3 – 1.7 seconds AFTER*** the battle menu appears. The program will run away from the battle.

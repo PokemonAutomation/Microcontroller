@@ -55,7 +55,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 - Done - [Shiny Hunt Unattended - Regigigas](PokemonSwSh/ShinyHuntUnattended-Regigigas.md)
 - Done - [Shiny Hunt Unattended - Regigigas2](PokemonSwSh/ShinyHuntUnattended-Regigigas2.md)
 - Done - [Shiny Hunt Unattended - IoA Trade](PokemonSwSh/ShinyHuntUnattended-IoATrade.md)
-- [Curry Hunter](PokemonSwSh/CurryHunter.md)
+- Done - [Curry Hunter](PokemonSwSh/CurryHunter.md)
 
 **Eggs:**
 - [Egg Fetcher 2](PokemonSwSh/EggFetcher2.md)

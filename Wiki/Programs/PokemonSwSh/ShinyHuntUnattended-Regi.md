@@ -13,7 +13,7 @@ The most advanced version of this program is the last one in the list. It can de
 
 Hunt for a shiny Regi golem.
 
-[Please read the appendix to understand how unattended shiny-hunting programs work.](https://github.com/PokemonAutomation/SwSh-Arduino/wiki/Appendix:-UnattendedShinyHunting)
+[Please read the appendix to understand how unattended shiny-hunting programs work.](UnattendedShinyHunting.md)
 
 When correctly utilized, this program will stop on a shiny thus allowing you to let it run unattended.
 

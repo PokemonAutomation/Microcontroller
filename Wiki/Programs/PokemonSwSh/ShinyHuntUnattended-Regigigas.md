@@ -25,7 +25,7 @@ This program does one encounter every ~2 minutes. This leads to 5.5 day odds for
 
 > _**Warning, this program may require calibration. The default settings are not guaranteed to work on your Switch. Read the instructions here carefully and be patient. Hardly anybody gets it right the first time.**_
 
-<img src="images/ShinyHuntUnattended-Regigigas.png">
+<img src="images/ShinyHuntUnattended-Regigigas-0.png">
 
 ## Calibration:
 

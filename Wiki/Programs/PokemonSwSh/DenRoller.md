@@ -45,7 +45,7 @@ The number of frames to roll. The default is 3. But some people may prefer to sa
 
 ### Catchability:
 
-Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to `Maybe Uncatchable`.
+Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must set this to "Maybe Uncatchable".
 
 ### Delay Before Reset:
 

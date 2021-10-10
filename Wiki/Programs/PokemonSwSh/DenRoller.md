@@ -13,7 +13,7 @@ The computer-control den roller can read the sprite of the den Pokémon and auto
 
 Roll a den forward by N days, show what it is, then reset.
 
-Use this program to roll for a specific Pokémon in your den. The serial version of this program can automatically stop on the Pokémon you want.
+Use this program to roll for a specific Pokémon in your den.
 
 <img src="images/DenRoller-0.jpg">
 
@@ -49,7 +49,7 @@ The number of frames to roll. The default is 3. But some people may prefer to sa
 
 Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any such uncatchable Pokémon, you must this to `Maybe Uncatchable`.
 
-## Delay Before Reset:
+### Delay Before Reset:
 
 View the rolled Pokémon for this long before resetting.
 

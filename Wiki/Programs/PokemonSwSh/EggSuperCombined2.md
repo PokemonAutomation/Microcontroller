@@ -26,7 +26,7 @@ EggSuperCombined2 is the most optimized of the egg programs in this package. Whe
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Automatic”.
+3. The "Send to Boxes" option must be set to "Automatic".
 4. Nicknaming needs to be off.
 5. Your bike must be fully upgraded.
 6. The parents are already deposited at the Route 5 daycare center.
@@ -149,7 +149,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 
 ## Advanced Settings:
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Safety Time:
 

@@ -22,7 +22,7 @@ Soft-reset for shiny strong spawns.
 
 When correctly utilized, this program will stop on a shiny thus allowing you to let it run unattended. This program will also work on the Swords of Justice legendaries, but slower.
 
-To read more about this method, search online for "Strong Spawn Shiny Hunting Method". We won’t bother reiterating the mechanics of the method here.
+To read more about this method, search online for "Strong Spawn Shiny Hunting Method". We won't bother reiterating the mechanics of the method here.
 
 <img src="images/ShinyHuntUnattended-StrongSpawn-0.png">
 
@@ -101,7 +101,7 @@ Every this many hours, rollback the time by this many hours. This keeps the time
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Start Game Wait Delay:
 

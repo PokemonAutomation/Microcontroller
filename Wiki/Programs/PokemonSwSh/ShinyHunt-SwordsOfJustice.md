@@ -13,7 +13,7 @@ The last one on the list is the most advanced. It can detect shinies, distinguis
 
 ## Program Description
 
-Soft-reset for a shiny Sword of Justice. This program requires you to watch it since it won’t stop on a shiny.
+Soft-reset for a shiny Sword of Justice. This program requires you to watch it since it won't stop on a shiny.
 
 ### Setup of Settings
 
@@ -26,7 +26,7 @@ Soft-reset for a shiny Sword of Justice. This program requires you to watch it s
 
 1. Your lead Pokémon must be faster than the Sword of Justice. (in order to run away)
 
-> Additional Recommendations: Make sure your lead Pokémon is not shiny. That way if you hear the shiny sound, you know it’s the Sword of Justice and not your own lead Pokémon.
+> Additional Recommendations: Make sure your lead Pokémon is not shiny. That way if you hear the shiny sound, you know it's the Sword of Justice and not your own lead Pokémon.
 
 ### Instructions
 
@@ -70,7 +70,7 @@ This feature will also prevent any unintentional day-skips that will destroy any
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Enter Camp Delay:
 

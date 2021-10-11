@@ -19,7 +19,7 @@ This program is also used to build a reservoir of eggs for running the faster [E
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Automatic”.
+3. The "Send to Boxes" option must be set to "Automatic".
 4. Your bike must be fully upgraded.
 5. The parents are already deposited at the Route 5 daycare center.
 

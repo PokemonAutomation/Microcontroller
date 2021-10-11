@@ -15,7 +15,7 @@ This program is capable of sustaining upwards of ***1700 eggs/day*** (5120 step)
 
 The EggCombined programs require setup so they may be less convenient if you are only trying to hatch one or two shinies of a specific species. But if you are hatching for squares, then this is definitely the program for you.
 
-This program requires that you already have a “reservoir” of eggs (recommended at least 3 boxes). You can run [EggFetcher2](EggFetcher2.md) to obtain these eggs.
+This program requires that you already have a "reservoir" of eggs (recommended at least 3 boxes). You can run [EggFetcher2](EggFetcher2.md) to obtain these eggs.
 
 Starting with this reservoir of eggs, this program will hatch those eggs while simultaneously fetching more eggs. Newly fetched can be hatched within the same run of the program. Thus with just 3 boxes of eggs, you can keep hatching until you run out of box space.
 
@@ -29,7 +29,7 @@ Be aware that the complexity of this program makes it inherently less reliable t
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Automatic”.
+3. The "Send to Boxes" option must be set to "Automatic".
 4. Nicknaming needs to be off.
 5. Your bike must be fully upgraded.
 6. The parents are already deposited at the Route 5 daycare center.
@@ -111,7 +111,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Safety Time:
 

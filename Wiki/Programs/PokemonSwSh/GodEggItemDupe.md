@@ -17,7 +17,7 @@ Duplicate items using the God Egg/MissingNo.
 
 1. Text Speed: Fast
 2. Casual mode: Off
-3. The “Send to Boxes” option must be set to “Manual”.
+3. The "Send to Boxes" option must be set to "Manual".
 4. Your bike must be fully upgraded.
 5. You must have the God Egg and a Ditto deposited at the Route 5 daycare center.
 

@@ -25,7 +25,7 @@ For example: "12344444", "78966666", etc... The purpose of repeating the last di
 
 When using a random raid code, the **Raid Code** box is used to generate a starting seed for the RNG. RNG seeding is needed for microcontrollers because they have almost no source of entropy to generate high quality random numbers.
 
-If you don’t know what that means, just ignore it and leave it as is.
+If you don't know what that means, just ignore it and leave it as is.
 
 
 <hr>

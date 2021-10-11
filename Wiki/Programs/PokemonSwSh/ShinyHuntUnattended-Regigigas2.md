@@ -20,7 +20,7 @@ Soft-reset for shiny Regigigas.
 
 [Please read the appendix to understand how unattended shiny-hunting programs work.](UnattendedShinyHunting.md)
 
-This is a more optimized version of [ShinyHuntUnattended-Regigigas](ShinyHuntUnattended-Regigigas.md) that runs at about one minute per encounter. It uses a method based on a comment under one of brianuuuSonic’s videos suggesting that Reversal can OHKO Regigigas.
+This is a more optimized version of [ShinyHuntUnattended-Regigigas](ShinyHuntUnattended-Regigigas.md) that runs at about one minute per encounter. It uses a method based on a comment under one of brianuuuSonic's videos suggesting that Reversal can OHKO Regigigas.
 
 This program uses a 1 HP lead that is able to OHKO the Regigigas using the move Reversal. Then it retries until it runs out of PP where it will do a soft-reset to restore the PP and continue.
 
@@ -53,7 +53,7 @@ Make only small changes at a time, no more than +/- 50 ticks at a time. Most Swi
 2. Your lead Pokémon must be faster than Regigigas.
 3. Your lead Pokémon is not shiny.
 4. Your lead Pokémon does not have an ability that activates upon entry to battle.
-5. The second move on your lead Pokémon (Reversal) is fully PP up’ed to 24 PP.
+5. The second move on your lead Pokémon (Reversal) is fully PP up'ed to 24 PP.
    1. The second move on your lead Pokémon must be able to OHKO the Regigigas. (see below)
 
 > **As of this writing, there is only one known way to ensure a OHKO on Regigigas:**
@@ -91,7 +91,7 @@ This program uses [**Tolerate System Update Menu (fast)**](/Wiki/Programs/Ninten
 
 ### Reversal PP:
 
-This is the amount of PP of your attacking move. Reversal has 24 PP when fully PP up’ed.
+This is the amount of PP of your attacking move. Reversal has 24 PP when fully PP up'ed.
 
 ### Start to Attack Delay:
 
@@ -106,7 +106,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Attack to Catch Delay:
 

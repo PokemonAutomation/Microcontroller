@@ -19,7 +19,7 @@ Soft-reset for shiny Regigigas.
 
 [Please read the appendix to understand how unattended shiny-hunting programs work.](UnattendedShinyHunting.md)
 
-If you’re here, you are probably experienced with the other unattended reset programs. As a warning, the Regigigas program is by far the most difficult and complicated to setup. And to top it off, it is also the slowest.
+If you're here, you are probably experienced with the other unattended reset programs. As a warning, the Regigigas program is by far the most difficult and complicated to setup. And to top it off, it is also the slowest.
 
 This program does one encounter every ~2 minutes. This leads to 5.5 day odds for a shiny. If you intend to square hunt with this program, average time is 3 months on one Switch. Therefore, this program will be a test of patience.
 
@@ -97,7 +97,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### End Battle Delay:
 

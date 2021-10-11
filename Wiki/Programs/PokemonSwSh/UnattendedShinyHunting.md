@@ -62,7 +62,7 @@ The programs come with a default delay, but you will need to change it:
 
 **When correctly calibrated:**
 - If the encounter is not shiny, the program will run* from the battle and move on to the next encounter.
-> *The Regigigas program does something different since you can’t run from it.
+> *The Regigigas program does something different since you can't run from it.
 - If the encounter is shiny, the program will trap itself inside the Pokémon menu. This allows you to manually back out and fight the shiny Pokémon.
 
 
@@ -85,7 +85,7 @@ Thus, you will need to check your calibration every day or so to make sure it st
 - The program attacks a shiny instead of locking it
   - This is the same as the previous bullet and is extremely rare since it requires a shiny encounter. It usually means the delay is too high.
 
-These failure cases mean that if you come back and see your Switch trapped in the summary screen, it doesn’t guarantee that the encounter is shiny. This is actually quite common depending on the program and the quality of the calibration.
+These failure cases mean that if you come back and see your Switch trapped in the summary screen, it doesn't guarantee that the encounter is shiny. This is actually quite common depending on the program and the quality of the calibration.
 
 ***
 
@@ -95,7 +95,7 @@ Unattended shiny-hunting programs are new to the Crown Tundra DLC (though the co
 
 The idea with unattended programs is to repeatedly reset for a shiny encounter and then automatically stop when a shiny is found.
 
-But how is this possible? There is no feedback. The device can’t tell if there’s a shiny since it can’t see the screen or hear sounds.
+But how is this possible? There is no feedback. The device can't tell if there's a shiny since it can't see the screen or hear sounds.
 It is in fact possible. The trick is to abuse the fact that the shiny animation adds a 2 second delay to when the battle menu appears. Thus you can use these 2 seconds to swallow a sequence of button presses that would cause a branch in the state sequence such that one branch resets, while the other branch does not. For most of the unattended shiny-hunting programs, this sequence is to run from the encounter.
 
 Thus, the key is to run from the non-shiny encounter within 2 seconds of the battle menu appearing. If the encounter is shiny, this does not happen and the program proceeds to trap itself inside the summary of your Pokémon thereby stopping the resets.

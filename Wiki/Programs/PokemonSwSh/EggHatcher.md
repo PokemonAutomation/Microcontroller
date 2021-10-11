@@ -13,7 +13,7 @@ Hatch eggs from your boxes. This is the counterpart to [EggFetcher2](EggFetcher2
 
 This program will tolerate early hatching eggs as long as they don't hatch immediately to prevent the character from reaching the bridge. _**Thus EggHatcher is mainly used to clean up eggs of unknown remaining step-count.**_
 
-This program does not use bike boosts, but is nevertheless roughly the same speed as brianuuuSonic’s AutoController egg hatcher.
+This program does not use bike boosts, but is nevertheless roughly the same speed as brianuuuSonic's AutoController egg hatcher.
 > For fastest egg hatching, you should use [EggCombined2](EggCombined2.md) and [EggSuperCombined2](EggSuperCombined2.md) once have familiarized yourself with this program.
 > 
 > This program is no longer optimized since you should be using the aforementioned combined egg hatchers for speed.
@@ -83,7 +83,7 @@ The number of steps needed to hatch the eggs. Look up the value on Serebii.
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 ### Safety Time:
 

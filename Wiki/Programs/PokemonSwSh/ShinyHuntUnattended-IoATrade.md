@@ -33,7 +33,7 @@ Before you continue, first read the appendix on unattended shiny-hunting calibra
 Section: [Unattended Shiny-Hunting Calibration](UnattendedShinyHunting.md#calibrating-unattended-shiny-hunting)
 
 **Calibrating the Run-Away time:**
-The variable that controls the critical delay for this program is “START_TO_RUN_DELAY”.
+The variable that controls the critical delay for this program is "START_TO_RUN_DELAY".
 - If neither Pokémon is shiny, the LEDs will turn on ***0.5 – 1.5 seconds AFTER*** the battle menu appears. The program will run from the Beartic.
 - If either Pokémon is shiny, the LEDs will turn on ***0.5 – 1.0 seconds BEFORE*** the battle menu appears. The program will not run and will instead trap  itself in the summary of your Pokémon.
 
@@ -122,7 +122,7 @@ Prevent the den from rolling over by periodically touching the date at this inte
 
 ## Advanced Settings:
 
-These are advanced settings. You shouldn’t need to touch these unless something isn’t working and you’re trying to debug it yourself.
+These are advanced settings. You shouldn't need to touch these unless something isn't working and you're trying to debug it yourself.
 
 
 ### Fly Duration:
@@ -135,7 +135,7 @@ This is how long to move towards the Beartic after landing on Route 10.
 
 ### Mash to Trade Delay:
 
-This is how long from when you start the trade to when the trade ends. You shouldn’t need to change this.
+This is how long from when you start the trade to when the trade ends. You shouldn't need to change this.
 
 
 <hr>

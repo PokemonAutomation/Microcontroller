@@ -50,7 +50,7 @@ If you don't feel like bothering with increasing both friendship and sociability
 1. You need to have cook at least one curry before using the program. This is because you have several additional text boxes the first time you cook curry.
 2. Casual mode is off.
 3. Your text speed must be set to fast.
-4. The “Send to Boxes” option must be set to “Automatic”.
+4. The "Send to Boxes" option must be set to "Automatic".
 5. Make sure to favorite as many rare ingredients and rare berries as possible. That way, the program can run for a really long time.
 6. Your character needs to be in the curry camp, with the curry menu closed.
 7. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).

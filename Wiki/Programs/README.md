@@ -65,7 +65,7 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 **Forbidden Programs:**
 - [Fast Code Entry (FCE)](PokemonSwSh/FastCodeEntry.md)
-- [God Egg Item Duplication](PokemonSwSh/GodEggItemDupe.md)
+- [God Egg Item Duplication](PokemonSwSh/GodEggItemDuplication.md)
 - [God Egg Duplication (developer only)](PokemonSwSh/GodEggDuplication.md)
 
 

@@ -12,6 +12,7 @@ Before you begin, make sure you meet all of the following requirements:
 1. **You have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets.
 2. Your computer must be running either Windows, Linux, or Mac. Windows is strongly recommended as it is the easiest path. Anything else will be world of pain if you are not computer savvy.
 3. If you intend to do Computer-Control programs, you MUST be running 64-bit Windows on a sufficiently powerful computer. (no low-end laptops or networks)
+4. Be willing to spend $20 - $30 USD if you are new to this. Switch Lite users may need an additional $20 for a 3rd party dock.
 
 
 ## Pick Your Hardware

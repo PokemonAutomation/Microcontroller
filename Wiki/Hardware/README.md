@@ -47,12 +47,16 @@ Why is Uno R3 not recommended?
 
 1. The Uno R3 and its knock-offs do not have enough memory or flash storage to run all the programs in this project.
 2. Many of the Uno R3's that are sold cannot be put into DFU mode. Therefore you cannot program them and they cannot be used.
-3. Driver support for the Uno R3 is very flaky. Sometimes it works out-of-box. Other times, it requires manually driver installation.
+3. Driver support for the Uno R3 is very flaky. Sometimes it works out-of-box. Other times, it requires manual driver installation.
 4. The Uno R3 is complicated to use as it requires manually shorting pins and multiple actions on the computer. By comparison, [Teensy](Teensy2.md) has a button that does all this.
 
 We do not recommend continuing with the Arduino Uno R3 unless you already have one sitting around. Do not go and buy one.
 
 In the future we will likely drop support for it completely as it has become a maintenance and tech-support burden for us. **Likewise, we no longer provide tech-support for Arduino Uno R3 unless the person demonstrates computer and circuitry competency.**
+
+| **Setup** | **Est. Total Price** |
+| --- | --- |
+| Arduino Uno R3 | Not worth your time.<br>Not worth *our* time to help you debug it. |
 
 ### Other Controllers:
 

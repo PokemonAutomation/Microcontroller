@@ -7,7 +7,7 @@ All Repos:
 - [Computer-Control Programs](https://github.com/PokemonAutomation/ComputerControl)
 - [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair)
 
-All Arduino-based automation starts here regardless of whether you intend to run Computer-Control or AutoMaxLair.
+All Arduino-based automation starts here regardless of whether you intend to run [Computer-Control]((https://github.com/PokemonAutomation/ComputerControl)) or [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair).
 
 If are new to automation and you came here intending to run AutoMaxLair or the other advanced programs, you must still begin here.
 

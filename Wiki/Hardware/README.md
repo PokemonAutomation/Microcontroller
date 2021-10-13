@@ -7,7 +7,7 @@ If you already have the hardware, skip ahead to the software tutorial.
 
 ## Pick Your Hardware
 
-(insert descriptions)
+First you must pick a microcontroller. There are 3 that we currently support.
 
 
 ### Teensy 2.0 or Teensy++ 2.0:

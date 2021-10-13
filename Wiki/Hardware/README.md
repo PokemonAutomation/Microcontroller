@@ -18,7 +18,7 @@ Teensy 2.0 is the recommended controller for beginners. It is the easiest to use
 
 Teensy++ 2.0 is just as easy, but is overkill. Don't get it unless it's almost the same price as the Teensy 2.0.
 
-The total cost for each setup is approximately
+The total cost for each setup (including other required parts) is approximately:
 
 | **Controller** | **Est. Total Price** |
 | --- | --- |
@@ -36,6 +36,10 @@ The Pro Micro is recommended for experienced users. It is harder to use, but is 
 | --- | --- |
 | 1 x Setup | $15 USD |
 | 4 x Setup | $35 USD |
+
+The Pro Micro is a favorite for people running multiple Switch setups with the [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs.
+
+<img src="images/multi-switch-serial.jpg" height="350">
 
 ### Arduino Uno R3 (not recommended):
 

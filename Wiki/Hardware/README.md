@@ -52,7 +52,7 @@ Why is Uno R3 not recommended?
 
 We do not recommend continuing with the Arduino Uno R3 unless you already have one sitting around. Do not go and buy one.
 
-In the future we will likely drop support for it completely as it has become a maintenance and tech-support burden for us. **Likewise, we no longer provide tech-support for Arduino Uno R3 unless you demonstrates computer competency and have at least a bachelor's degree in electrical engineering.**
+In the future we will likely drop support for it completely as it has become a maintenance and tech-support burden for us. **Likewise, we no longer provide tech-support for Arduino Uno R3 unless you demonstrate computer competency and have at least a bachelor's degree in electrical engineering.**
 
 | **Setup** | **Est. Total Price** |
 | --- | --- |

@@ -2,8 +2,9 @@
 
 This repo contains the microcontroller-only programs (formerly known as "native programs") for Pokémon Automation.
 
+[More information about this project.](https://github.com/PokemonAutomation/About/blob/master/README.md)
+
 All Repos:
-- [About this Project](https://github.com/PokemonAutomation/About/blob/master/README.md)
 - [Microcontroller Programs](https://github.com/PokemonAutomation/Microcontroller) (this repo)
 - [Computer-Control Programs](https://github.com/PokemonAutomation/ComputerControl)
 - [AutoMaxLair](https://github.com/PokemonAutomation/AutoMaxLair)

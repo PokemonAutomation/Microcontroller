@@ -2,10 +2,6 @@
 
 This is the guide for setting up the software.
 
-If you already have the software setup and know how to use it, continue to:
-- [Program List](/Wiki/Programs/README.md)
-- [Computer Control Programs](https://github.com/PokemonAutomation/ComputerControl/README.md)
-
 ## Software Tutorials
 
 The software tutorial will differ depending on what OS and what microcontroller you have.

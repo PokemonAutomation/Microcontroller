@@ -5,6 +5,15 @@ This is the guide for buying and setting up the hardware for the microcontroller
 If you already have the hardware, skip ahead to the software tutorial.
 - [Software Tutorial](/Wiki/Software/README.md)
 
+
+## Before you Begin
+
+Before you begin, make sure you meet all of the following requirements:
+1. **You have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets.
+2. Your computer must be running either Windows, Linux, or Mac. Windows is strongly recommended as it is the easiest path. Anything else will be world of pain if you are not computer savvy.
+3. If you intend to do Computer-Control programs, you MUST be running 64-bit Windows on a sufficiently powerful computer. (no low-end laptops or networks)
+
+
 ## Pick Your Hardware
 
 First you must pick a microcontroller. There are 3 that we currently support.

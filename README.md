@@ -27,4 +27,10 @@ Be patient. Learn algebra before attempting Calculus.
   - [Pokémon Brilliant Diamond/Shining Pearl (coming soon...)](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
 - [Version History](Wiki/VersionHistory.md)
 
-<img src="Wiki/images/server-banner.png" width="800">
+## Microcontroller Automation
+
+Entry-level automation of the Pokémon games. All you need is a tiny board and a USB cable!
+
+<img src="Wiki/Hardware/images/basic-setup.jpg" width="800">
+<img src="Wiki/Programs/PokemonSwSh/images/ShinyHuntUnattended-Regi-0.png" width="800">
+<img src="Wiki/Programs/PokemonSwSh/images/EggCombined2-0.png" width="800">

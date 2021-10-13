@@ -56,7 +56,7 @@ In the future we will likely drop support for it completely as it has become a m
 
 | **Setup** | **Est. Total Price** |
 | --- | --- |
-| Arduino Uno R3 | Not worth your time.<br>Not worth *our* time to help you debug it. |
+| Arduino Uno R3 | Not worth your time and money.<br>Not worth *our* time to help you debug it. |
 
 ### Other Controllers:
 

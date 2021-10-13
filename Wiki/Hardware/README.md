@@ -37,7 +37,7 @@ The Pro Micro is recommended for experienced users. It is harder to use, but is 
 | 1 x Setup | $15 USD |
 | 4 x Setup | $35 USD |
 
-The Pro Micro is a favorite for people running multiple Switch setups with the [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs.
+The Pro Micro is a favorite for people running multiple Switches with the [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs.
 
 <img src="images/multi-switch-serial.jpg" height="350">
 

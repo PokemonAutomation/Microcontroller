@@ -39,7 +39,6 @@ The Pro Micro is recommended for experienced users. It is harder to use, but is 
 
 The Pro Micro is a favorite for people running multiple Switches with the [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs.
 
-<img src="images/multi-switch-serial.jpg" height="350">
 
 ### Arduino Uno R3 (not recommended):
 

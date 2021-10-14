@@ -1,4 +1,4 @@
-# CustomProgram
+# Custom Program
 
 This is a template for writing your own programs. To build your own program, you can start by editing this one. Then rename it later.
 

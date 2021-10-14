@@ -12,7 +12,7 @@ This section will walk you through the entire process of setting up your Arduino
 
 Make sure you have the hardware:
 
-* [Hardware - ArduinoUnoR3](/Wiki/Hardware/ArduinoUnoR3.md)
+- [Hardware - ArduinoUnoR3](/Wiki/Hardware/ArduinoUnoR3.md)
 
 ## Step 2: Install WinAVR
 

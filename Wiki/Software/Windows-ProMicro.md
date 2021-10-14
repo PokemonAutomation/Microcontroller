@@ -10,7 +10,7 @@ The Pro Micro board is just as capable as the Teensy 2.0, but at a much lower co
 
 Make sure you have the hardware:
 
-* [Hardware - Pro Micro](/Wiki/Hardware/ProMicro.md)
+- [Hardware - Pro Micro](/Wiki/Hardware/ProMicro.md)
 
 ## Step 2: Install WinAVR
 

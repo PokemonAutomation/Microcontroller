@@ -95,7 +95,7 @@ You can find the manual for a program by clicking on the "Online Documentation" 
 
 ## Computer-Control
 
-Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware).
+Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
 
 <hr>
 

@@ -97,7 +97,7 @@ The program should now begin running. It will flash its light for a few seconds,
 - To stop the program, simply unplug the Teensy at any time.
 - Do not change video output or mess with the HDMI. These can cause the program to Switch to freeze for multiple seconds and break the program. If you want turn off the TV, do it *before* you start the program.
 
-## Next Steps
+## Other Programs
 
 You now know how to run TurboA - the most basic of the programs. You can choose any of the other programs and repeat steps 5-8.
 
@@ -105,6 +105,10 @@ You now know how to run TurboA - the most basic of the programs. You can choose 
 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
 You can find the manual for a program by clicking on the "Online Documentation" link.
+
+## Computer-Control
+
+As of this writing, Computer-Control programs are only supported for Windows. But feel free to browse the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md) anyway if you decide to switch to Windows.
 
 
 <hr>

@@ -6,6 +6,10 @@ This section covers the required hardware for users who already have the Arduino
 
 **If you are new to automation and do not already have an Uno R3, please buy either a Teensy or ProMicro.**
 
+| **Setup** | **Est. Total Price** |
+| --- | --- |
+| Arduino Uno R3 | Not worth your time and money.<br>Not worth *our* time to help you debug it. |
+
 ***(You have been warned.)***
 
 Why we do not support it:

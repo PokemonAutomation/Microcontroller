@@ -1,5 +1,11 @@
 # Version History
 
+
+### 2021-10-23:
+- Minor UI improvements to the HexGenerator.
+- Fixed some bugs in the HexGenerator regarding the Framework and Pokemon settings.
+- Updated all the documentation links to point to the new repo.
+
 ### 2021-10-10:
 - New wiki that splits Microcontroller and Computer-Control programs.
 

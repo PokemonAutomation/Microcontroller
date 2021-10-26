@@ -7,9 +7,9 @@ This section covers the required hardware for users who have chosen the Arduino 
 
 1. [Arduino Leonardo Board](https://www.amazon.com/gp/product/B0786LJQ8K)
 
-<img src="images/leonardo.jpg" height="200">
+<img src="images/leonardo.jpg" height="400">
 
-If it doesn't come with the cable, you will need a Micro-USB male to USB-A cable.
+If it doesn't come with the cable, you will need it separately. It is a Micro-USB male to USB-A cable.
 
 **Switch Lite users will also need:**
 

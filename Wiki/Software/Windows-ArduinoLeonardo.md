@@ -1,8 +1,6 @@
-# Windows Tutorial - Pro Micro
+# Windows Tutorial - Arduino Leonardo
 
-This section will walk you through the entire process of setting up your Pro Micro on a Windows computer.
-
-The Pro Micro board is just as capable as the Teensy 2.0, but at a much lower cost. The catch is that the setup is more complicated and annoying.
+This section will walk you through the entire process of setting up your Leonardo on a Windows computer.
 
 
 
@@ -10,7 +8,7 @@ The Pro Micro board is just as capable as the Teensy 2.0, but at a much lower co
 
 Make sure you have the hardware:
 
-- [Hardware - Pro Micro](/Wiki/Hardware/ProMicro.md)
+- [Hardware - Arduino Leonardo](/Wiki/Hardware/ArduinoLeonardo.md)
 
 ## Step 2: Install WinAVR
 
@@ -37,37 +35,38 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 ## Step 5: Generate a .hex file.
 
 1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.
-2. In the "Board Type" drop-down, change it to "Pro Micro" depending on which board you have.
+2. In the "Board Type" drop-down, change it to "Arduino Leonardo" depending on which board you have.
 3. In the program list, click on "Turbo A".
 > We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
 
-<img src="images/tutorial-windows-pro-micro-0.png" height="400">
+<img src="images/tutorial-windows-leonardo-0.png" height="400">
 
 4. Click on "Save and generate .hex file!".
 
 After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ProMicro.hex` in the folder of the programs.
 
-<img src="images/tutorial-windows-pro-micro-1.png" height="400">
+<img src="images/tutorial-windows-leonardo-1.png" height="400">
 
-## Step 6: Flash the .hex into the Pro Micro.
+## Step 6: Flash the .hex into the Leonardo.
 
 1. Run the QMK Toolbox program that you downloaded earlier.
 2. Open the .hex you generated in the previous step.
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
-<img src="images/tutorial-windows-pro-micro-2.png" height="600">
+<img src="images/tutorial-windows-leonardo-2.png" height="400">
 
-5. Plug the Pro Micro into your computer. Wait for the drivers to install.
-6. Short the GND and RST holes. (use tweezers)
+5. Plug the Leonardo into your computer. Wait for the drivers to install.
+6. Press the reset button.
 
-<img src="images/tutorial-windows-pro-micro-3.jpg" height="600">
+<img src="images/tutorial-windows-leonardo-3.jpg" height="400">
 
-The QMK program will now flash the program to the Pro Micro and show a bunch of logging.
+The QMK program will now flash the program to the Leonardo and show a bunch of logging.
+Afterwards, the 3 LEDs on the Leonardo should flash in unison for 5 seconds before turning off.
 
-<img src="images/tutorial-windows-pro-micro-4.png" height="600">
+<img src="images/tutorial-windows-leonardo-4.png" height="600">
 
-7. Unplug the Pro Micro from your computer.
+7. Unplug the Leonardo from your computer.
 
 ## Step 7: Setup and run the program!
 
@@ -75,7 +74,7 @@ The QMK program will now flash the program to the Pro Micro and show a bunch of 
 
 <img src="images/digging-duo.jpg" height="400">
 
-2. Navigate to the grip menu without closing the game. This disconnects all controllers from the Switch so that the Pro Micro can take over.
+2. Navigate to the grip menu without closing the game. This disconnects all controllers from the Switch so that the Leonardo can take over.
 
 <img src="images/grip-menu.jpg" height="400">
 
@@ -106,6 +105,15 @@ Now that you are done with the Microncontroller tutorial, you can proceed to the
 **Discord Server:** 
 
 [<img src="https://canary.discordapp.com/api/guilds/695809740428673034/widget.png?style=banner2">](https://discord.gg/cQ4gWxN)
+
+
+
+
+
+
+
+
+
 
 
 

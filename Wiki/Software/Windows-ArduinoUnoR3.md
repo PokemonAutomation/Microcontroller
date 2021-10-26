@@ -37,7 +37,7 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 ## Step 5: Generate a .hex file.
 
 1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.
-2. In the "Board Type" drop-down, change it to "Arduino Uno R3" depending on which board you have.
+2. In the "Board Type" drop-down, change it to "Arduino Uno R3".
 3. In the program list, click on "Turbo A".
 
 <img src="images/tutorial-windows-uno-0.png" height="400">

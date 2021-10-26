@@ -25,12 +25,6 @@ The basic Pro Micro hardware setup will look like this:
 > 
 > Portable docks will work for the Switch Lite, but will not be able to output video over the HDMI.
 
-## Optional Hardware
-
-* If you are a heavy user, then it is strongly recommended to get a USB-A male-to-female cable with a power switch on it. ([example](https://www.amazon.com/gp/product/B07T9BRNHW))
-
-* If you intend to change programs very often and will be running the Switch next to a computer, then you will want a USB switch. ([example](https://www.amazon.com/gp/product/B006Z0Q2SI)) These are like USB-only KVM switches. In fact a regular KVM switch will also work. With this, you no longer have to constantly plug/unplug USBs which will eventually wear them down.
-
 ## Next Steps
 
 Continue to the [software tutorial](/Wiki/Software/README.md).

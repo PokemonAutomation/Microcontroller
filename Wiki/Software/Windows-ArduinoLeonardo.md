@@ -39,13 +39,13 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 3. In the program list, click on "Turbo A".
 > We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
 
-<img src="images/tutorial-windows-leonardo-0.png" height="400">
+<img src="images/tutorial-windows-leonardo-0.png">
 
 4. Click on "Save and generate .hex file!".
 
 After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ProMicro.hex` in the folder of the programs.
 
-<img src="images/tutorial-windows-leonardo-1.png" height="400">
+<img src="images/tutorial-windows-leonardo-1.png">
 
 ## Step 6: Flash the .hex into the Leonardo.
 
@@ -54,7 +54,7 @@ After a while, you should get a confirmation box saying it was successful. You s
 3. Change the MCU to `atmega32u4`.
 4. Check the "Auto-Flash" box.
 
-<img src="images/tutorial-windows-leonardo-2.png" height="400">
+<img src="images/tutorial-windows-leonardo-2.png" height="600">
 
 5. Plug the Leonardo into your computer. Wait for the drivers to install.
 6. Press the reset button.

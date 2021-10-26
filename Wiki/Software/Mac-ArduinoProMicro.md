@@ -1,4 +1,4 @@
-# Tutorial - Mac - Arduino Uno R3, Arduino Leonardo and Pro Micro
+# Tutorial - Mac - Arduino Uno R3, Leonardo, and Pro Micro
 
 This section will walk you through the entire process of setting up your Uno R3, Leonardo, or Pro Micro on a Mac computer.
 

@@ -95,6 +95,7 @@ Do not use the other Teensy models (LC, 3.x, 4.x, etc...). They are ARM-based bo
 
 Continue to the guide for the device you have chosen:
 
+- [Arduino Leonardo](ArduinoLeonardo.md)
 - [Teensy 2.0 or Teensy++ 2.0](Teensy2.md)
 - [Pro Micro](ProMicro.md)
 - [Arduino Uno R3 (deprecated)](ArduinoUnoR3.md)

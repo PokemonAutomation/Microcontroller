@@ -50,6 +50,19 @@ The Pro Micro is recommended for experienced users. It is harder to use, but is 
 The Pro Micro is a favorite for people running multiple Switches with the [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs.
 
 
+### Arduino Leonardo:
+
+<img src="images/leonardo.jpg" height="300">
+
+This is a newly supported board and is intended to replace the Uno R3 which is being deprecated.
+
+While it is bulkier than Teensy or Pro Micro, it is the easiest to setup - especially if you wish to do [Computer-Control](https://github.com/PokemonAutomation/ComputerControl) programs with no experience in electronics. More information coming soon as we continue to evaluate this new option.
+
+| **Setup** | **Est. Total Price** |
+| --- | --- |
+| 1 x Setup | $15 USD |
+
+
 ### Arduino Uno R3 (not recommended):
 
 <img src="images/uno-r3.jpg" height="200">

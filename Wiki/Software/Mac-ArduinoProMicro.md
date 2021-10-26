@@ -1,6 +1,6 @@
-# Tutorial - Mac - Arduino Uno R3 and Pro Micro
+# Tutorial - Mac - Arduino Uno R3, Arduino Leonardo and Pro Micro
 
-This section will walk you through the entire process of setting up your Arduino or Pro Micro on a Mac computer.
+This section will walk you through the entire process of setting up your Uno R3, Leonardo, or Pro Micro on a Mac computer.
 
 At this time, the HexGenerator program on Windows is not yet available for Mac or Linux.
 
@@ -8,7 +8,8 @@ At this time, the HexGenerator program on Windows is not yet available for Mac o
 
 Follow the hardware guide for the "Basic Hardware" section:
 - [Hardware - Pro Micro](/Wiki/Hardware/ProMicro.md)
-- [Hardware - ArduinoUnoR3](/Wiki/Hardware/ArduinoUnoR3.md)
+- [Hardware - Arduino Leonardo](/Wiki/Hardware/ArduinoLeonardo.md)
+- [Hardware - Arduino Uno R3](/Wiki/Hardware/ArduinoUnoR3.md)
 
 ## Step 2: Install Homebrew and AVR
 
@@ -50,7 +51,7 @@ See the documentation for the respective program for a description of all the op
 4. Press enter.
 
 Once you run the script, it will prompt you for:
-- The board type. Enter `ArduinoUnoR` `ProMicro` depending on your board.
+- The board type. Enter `ArduinoUnoR3` `ArduinoLeonardo` `ProMicro` depending on your board.
 - Which program to compile and load. For this tutorial, enter `TurboA`.
 > We recommend starting with "Turbo A"  as it is the simplest program. If you are able to get this running, it is easier to troubleshoot the other programs.
 

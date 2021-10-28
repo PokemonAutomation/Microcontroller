@@ -30,7 +30,12 @@ If you get a virus or malware warning, ignore it. These are known false positive
 
 Once you have downloaded the package, unzip to somewhere you can access later. Do not put it on Microsoft OneDrive.
 
-## Step 5: Generate a .hex file.
+## Step 5: Setup Hardware
+
+1. Plug Mini-USB to USB-A cable/adaptor into the Teensy
+2. Plug the Teensy + cable/adaptor into the computer
+
+## Step 6: Generate a .hex file.
 
 1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.
 2. In the "Board Type" drop-down, change it to "Teensy 2.0" or "Teensy++ 2.0" depending on which board you have.
@@ -45,7 +50,7 @@ After a while, you should get a confirmation box saying it was successful. You s
 
 <img src="images/tutorial-windows-teensy-1.png" height="400">
 
-## Step 6: Flash the .hex into the Teensy.
+## Step 7: Flash the .hex into the Teensy.
 
 1. Run the Teensy Loader program that you downloaded earlier.
 2. Click the purple file icon and browse for the .hex that was created in the previous step.
@@ -65,7 +70,7 @@ At this point, two green arrows should show up in Teensy Loader.
 
 6. Unplug the Teensy from your computer.
 
-## Step 7: Setup and run the program!
+## Step 8: Setup and run the program!
 
 1. On your Switch, enter the game and navigate to somewhere you want to mash A in front of (such as the digging duo).
 

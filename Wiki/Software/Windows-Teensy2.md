@@ -35,6 +35,10 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 1. Plug Mini-USB to USB-A cable/adaptor into the Teensy
 2. Plug the Teensy + cable/adaptor into the computer
 
+The basic Teensy hardware setup will look something like this:
+
+<img src="images/teensy-basic.jpg" height="350">
+
 ## Step 6: Generate a .hex file.
 
 1. Open the package from previous section and double-click on `HexGenerator-Windows.cmd` to run it.

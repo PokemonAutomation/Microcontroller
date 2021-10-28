@@ -11,7 +11,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 Continue to the guide for the device you have chosen:
 
-| Windows | Mac OS |
+| | Windows | Mac OS |
 | --- | --- | --- |
 | Teensy 2.0 and Teensy++ 2.0 | [Guide](Windows-Teensy2.md) | [Guide](Mac-Teensy2.md) |
 | Pro Micro | [Guide](Windows-ProMicro.md) | [Guide](Mac-ArduinoProMicro.md) |

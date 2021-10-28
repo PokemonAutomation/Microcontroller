@@ -11,7 +11,7 @@ Before you begin, make sure you meet all of the following requirements:
 
 Continue to the guide for the device you have chosen:
 
-- [Teensy 2.0 or Teensy++ 2.0](Teensy2.md)
+- [Teensy 2.0 or Teensy++ 2.0](Windows-Teensy2.md)
 - [Pro Micro](ProMicro.md)
 - [Arduino Leonardo](ArduinoLeonardo.md)
 

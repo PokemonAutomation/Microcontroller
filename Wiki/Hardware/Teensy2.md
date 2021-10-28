@@ -32,7 +32,7 @@ The basic Teensy hardware setup will look something like this:
 
 ## Next Steps
 
-Continue to the [software tutorial](/Wiki/Software/README.md).
+Continue to the [software tutorial](/Wiki/Software/Windows-Teensy2.md).
 
 <hr>
 

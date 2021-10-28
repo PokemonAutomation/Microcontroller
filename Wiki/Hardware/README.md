@@ -13,7 +13,7 @@ Continue to the guide for the device you have chosen:
 
 | | Windows | Mac OS |
 | --- | --- | --- |
-| Teensy 2.0 and Teensy++ 2.0 | [Guide](Windows-Teensy2.md) | [Guide](Mac-Teensy2.md) |
+| Teensy 2.0 and Teensy++ 2.0 | [Guide](Teensy2.md) | [Guide](Mac-Teensy2.md) |
 | Pro Micro | [Guide](Windows-ProMicro.md) | [Guide](Mac-ArduinoProMicro.md) |
 | Arduino Leonardo | [Guide](Windows-ArduinoLeonardo.md) | [Guide](Mac-ArduinoProMicro.md) |
 | Arduino Uno R3 | [Guide](Windows-ArduinoUnoR3.md) | [Guide](Mac-ArduinoProMicro.md) |

@@ -1,6 +1,6 @@
 # PART 3
 
-This is the third step in the process towards automation! Below you will find information on how to setup and use the hardware you bought in **STEP 2**.
+This is the third step in the process towards automation! Below you will find information on how to setup and use the hardware you bought in **PART 2**.
 
 ## Step 1:  Install WinAVR
 

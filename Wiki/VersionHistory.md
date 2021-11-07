@@ -1,6 +1,10 @@
 # Version History
 
 
+### 2021-11-07:
+- Added support for Arduino Leonardo.
+- WattFarmer now has a 5 second start delay to fix an issue that kills VS-glitch for people with slow connections. (thanks Big M#3359 for reporting this)
+
 ### 2021-10-23:
 - Minor UI improvements to the HexGenerator.
 - Fixed some bugs in the HexGenerator regarding the Framework and Pokemon settings.

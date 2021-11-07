@@ -95,7 +95,7 @@ Congrats! You've learned how to automate!
 
 <hr>
 
-## If you are doing Computer Controlled Automation, your next step is [here](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md)
+## If you are doing Computer Controlled Automation, your next step is [here](https://github.com/Ensamma/ComputerControl/blob/master/Wiki/Software/Beginner-Windows.md)
 
 The next step will teach you how to put together and use the Computer Controlled hardware.
 

@@ -15,10 +15,10 @@ Continue to the guide for the device you have chosen:
 
 | | Windows | Mac OS |
 | --- | --- | --- |
-| Teensy 2.0 and Teensy++ 2.0 | [Guide](/Wiki/Software/Windows-Teensy2.md) | [Guide](Mac-Teensy2.md) |
-| Pro Micro | [Guide](Windows-ProMicro.md) | [Guide](Mac-ArduinoProMicro.md) |
-| Arduino Leonardo | [Guide](Windows-ArduinoLeonardo.md) | [Guide](Mac-ArduinoProMicro.md) |
-| Arduino Uno R3 | [Guide](Windows-ArduinoUnoR3.md) | [Guide](Mac-ArduinoProMicro.md) |
+| Teensy 2.0 and Teensy++ 2.0 | [Guide](/Wiki/Software/Windows-Teensy2.md) | [Guide](/Wiki/Software/Mac-Teensy2.md) |
+| Pro Micro | [Guide](/Wiki/Software/Windows-ProMicro.md) | [Guide](/Wiki/Software/Mac-ArduinoProMicro.md) |
+| Arduino Leonardo | [Guide](/Wiki/Software/Windows-ArduinoLeonardo.md) | [Guide](/Wiki/Software/Mac-ArduinoProMicro.md) |
+| Arduino Uno R3 | [Guide](/Wiki/Software/Windows-ArduinoUnoR3.md) | [Guide](/Wiki/Software/Mac-ArduinoProMicro.md) |
 
 <hr>
 

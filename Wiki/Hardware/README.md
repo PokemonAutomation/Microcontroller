@@ -1,5 +1,7 @@
 # Microcontroller Programs - Hardware Guide
 
+You must start here if you are doing the Microcontroller or Computer Controlled guide. Build on the basics first.
+
 ## Before you Continue
 
 Before you begin, make sure you meet all of the following requirements:

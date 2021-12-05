@@ -73,7 +73,14 @@ As of this writing, all programs on this list can run on all 3 microcontrollers 
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
-Stay tuned...
+- [Pokemon Settings](PokemonBDSP/PokemonSettings.md)
+
+**General Programs:**
+- [Mass Release](PokemonBDSP/MassRelease.md)
+
+**Eggs:**
+- [Egg Fetcher](PokemonBDSP/EggFetcher.md)
+- [Egg Hatcher](PokemonBDSP/EggHatcher.md)
 
 
 <hr>

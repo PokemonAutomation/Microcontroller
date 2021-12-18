@@ -9,7 +9,7 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-Run [MassRelease](MassRelease.md), then run [EggCombined2](EggCombined2.md).).
+Run [MassRelease](MassRelease.md), then run [EggCombined2](EggCombined2.md).
 
 ***Do not use this program until you are familiar with EggCombined since this is literally the same thing, but with an extra mass-release step. Therefore it is even more difficult to use correctly and safely.***
 

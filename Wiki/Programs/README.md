@@ -73,6 +73,8 @@ As of this writing, all programs on this list can run on all 3 microcontrollers 
 
 ## Pokémon Brilliant Diamond/Shining Pearl
 
+Pokémon BDSP has proven itself to be very resistent to non-feedback automation. Therefore, there are far fewer MC programs for BDSP than Sword/Shield. Any substantial automation for BDSP will require [full Computer-Control](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Programs#pok%C3%A9mon-brilliant-diamondshining-pearl).
+
 - [Pokemon Settings](PokemonBDSP/PokemonSettings.md)
 
 **General Programs:**

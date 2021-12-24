@@ -22,7 +22,7 @@ Soft-reset for a shiny Regi golem. This program requires you to watch it since i
 1. Text Speed: Fast
 2. Casual mode: Off
 3. System time: Un-synced
-4. You must have 7 or more badges or you cannot catch the Regi.
+4. You must have all 8 badges or you cannot catch the Regi.
 
 ### Instructions
 

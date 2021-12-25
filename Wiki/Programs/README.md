@@ -8,6 +8,11 @@ Nearly all microcontroller programs are also available as computer-control progr
 
 As of this writing, all programs on this list can run on all 3 microcontrollers that we support (Teensy, Pro Micro, and Arduino Uno R3).
 
+**Jump To:**
+- [Nintendo Switch](#nintendo-switch)
+- [Pokémon Sword/Shield](#pokémon-swordshield)
+- [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
+
 ## Nintendo Switch
 
 - [Framework Setttings](NintendoSwitch/FrameworkSettings.md)

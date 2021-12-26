@@ -37,7 +37,7 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 
 The basic Teensy hardware setup will look something like this:
 
-<img src="https://raw.githubusercontent.com/Ensamma/Microcontroller/master/Wiki/Hardware/images/teensy-basic.jpg" height="350">
+<img src="/Wiki/Hardware/images/teensy-basic.jpg" height="350">
 
 ## Step 6: Generate a .hex file.
 

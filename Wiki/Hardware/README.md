@@ -6,14 +6,16 @@ You must start here if you are doing the Microcontroller or Computer Controlled 
 
 Before you begin, make sure you meet all of the following requirements:
 1. **You have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets.
-2. Your computer must be running either Windows, Linux, or Mac. Windows is strongly recommended as it is the easiest path. Anything else will be world of pain if you are not computer savvy.
+2. Your computer should be running Windows.
 3. If you intend to do Computer-Control programs, you MUST be running 64-bit Windows on a sufficiently powerful computer. (no low-end laptops or networks)
+
+*In the past, we supported Mac and Linux as well. But this was dropped due to lack of developer support. While we have instructions for Mac and Linux, they may be out-of-date and may no longer work. We do not recommend going this route unless you are computer-saavy and are willing to debug shell scripts.*
 
 ## Next Steps
 
 Continue to the guide for the device you have chosen:
 
-| | Windows | Mac OS |
+| | Windows | Mac OS (no longer officially supported) |
 | --- | --- | --- |
 | Teensy 2.0 and Teensy++ 2.0 | [Guide](/Wiki/Software/Windows-Teensy2.md) | [Guide](/Wiki/Software/Mac-Teensy2.md) |
 | Pro Micro | [Guide](/Wiki/Software/Windows-ProMicro.md) | [Guide](/Wiki/Software/Mac-ArduinoProMicro.md) |

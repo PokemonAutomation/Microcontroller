@@ -6,7 +6,7 @@ For computer-control programs, go to the [ComputerControl repository](https://gi
 
 Nearly all microcontroller programs are also available as computer-control programs.
 
-As of this writing, all programs on this list can run on all 3 microcontrollers that we support (Teensy, Pro Micro, and Arduino Uno R3).
+As of this writing, all programs on this list can run on all 4 microcontrollers that we support (Arduino Leonardo, Teensy, Pro Micro, and Arduino Uno R3).
 
 **Jump To:**
 - [Nintendo Switch](#nintendo-switch)

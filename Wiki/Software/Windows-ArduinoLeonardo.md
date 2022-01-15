@@ -43,7 +43,7 @@ Once you have downloaded the package, unzip to somewhere you can access later. D
 
 4. Click on "Save and generate .hex file!".
 
-After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ProMicro.hex` in the folder of the programs.
+After a while, you should get a confirmation box saying it was successful. You should now see a file `TurboA-ArduinoLeonardo.hex` in the folder of the programs.
 
 <img src="images/tutorial-windows-leonardo-1.png">
 

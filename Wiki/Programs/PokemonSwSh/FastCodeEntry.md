@@ -50,6 +50,11 @@ Pretty self-explanatory.
 The program will skip non-digit characters. So the space or hyphen separator is optional.
 
 
+## Credits
+
+- **Author:** SakuraKim
+
+
 <hr>
 
 **Discord Server:** 

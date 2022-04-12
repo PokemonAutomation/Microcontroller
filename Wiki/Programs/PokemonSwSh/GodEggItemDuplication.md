@@ -84,6 +84,11 @@ When you release a Pokémon, the item automatically detaches and goes to your in
 If you are duplicating such items, you must set this to true.
 
 
+## Credits
+
+- **Author:** SakuraKim
+
+
 <hr>
 
 **Discord Server:** 

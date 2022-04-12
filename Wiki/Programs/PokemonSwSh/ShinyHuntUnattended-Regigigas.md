@@ -104,6 +104,11 @@ These are advanced settings. You shouldn't need to touch these unless something 
 After attacking Regigigas, wait this long for the program to return to the overworld.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

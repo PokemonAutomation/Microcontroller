@@ -56,6 +56,11 @@ This is useful if your game is holding a den and you do not want an unintentiona
 Prevent the den from rolling over by periodically touching the date at this interval. Set this value to zero to disable the feature.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

@@ -43,6 +43,12 @@ Most of the options here are self-explanatory.
 <img src="images/DateSpam-WattFarmer-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+- **Optimized:** SakuraKim
+
+
 <hr>
 
 **Discord Server:** 

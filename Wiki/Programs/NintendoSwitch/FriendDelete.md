@@ -50,6 +50,11 @@ Most of the options here are self-explanatory. If your internet connection is sl
 <img src="images/FriendDelete-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

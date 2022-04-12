@@ -51,6 +51,11 @@ Most of the options here are self-explanatory.
 <img src="images/EventBeamFinder-Settings.png">
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 <hr>
 
 **Discord Server:** 

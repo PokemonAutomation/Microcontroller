@@ -6,6 +6,11 @@ You shouldn't have to compile this program yourself since the ComputerPrograms p
 
 <img src="images/PABotBase-0.png">
 
+
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
 <hr>
 
 **Discord Server:** 

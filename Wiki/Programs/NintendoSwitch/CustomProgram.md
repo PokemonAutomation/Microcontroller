@@ -17,6 +17,11 @@ All programs actually have all 4 files. The `_Core.c` is not publicly available 
 The file `Programs/CustomProgram_Core.c` contains a very simple program that mashes the A button. Use this as a starting point.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 <hr>
 

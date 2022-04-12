@@ -52,6 +52,12 @@ Some dens have uncatchable Pokémon (i.e. Mewtwo or Zeraora). If the den has any
 View the rolled Pokémon for this long before resetting.
 
 
+## Credits
+
+- **Original:** Kuroneko/Mysticial
+- **Optimized:** SakuraKim
+
+
 
 <hr>
 

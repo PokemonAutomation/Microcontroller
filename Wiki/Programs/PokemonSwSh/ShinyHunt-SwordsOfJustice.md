@@ -81,6 +81,11 @@ Wait this long after entering camp before you leave.
 The delay from when you run from the battle to when you bring up the menu to enter the camp.
 
 
+## Credits
+
+- **Author:** Kuroneko/Mysticial
+
+
 
 
 <hr>

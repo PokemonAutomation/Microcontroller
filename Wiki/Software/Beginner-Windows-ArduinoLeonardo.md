@@ -10,9 +10,11 @@ Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).
 
 ## Step 2: Download QMK Toolbox
 
+> **Currently only QMK 0.1.1 works for Leonardo.**
+
 Download [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases).
 
-You want the file `qmk_toolbox.exe`.
+You want the file `qmk_toolbox.exe`, listed under 0.1.1
 
 ## Step 3: Download the Arduino Programs
 

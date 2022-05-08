@@ -7,7 +7,7 @@ You must start here if you are doing the Microcontroller or Computer Controlled 
 Before you begin, make sure you meet all of the following requirements:
 1. **You have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets.
 2. Your computer should be running Windows.
-3. If you intend to do Computer-Control programs, you MUST be running 64-bit Windows on a sufficiently powerful computer. (no low-end laptops or networks)
+3. If you intend to do Computer-Control programs, you MUST be running 64-bit Windows on a sufficiently powerful computer. (no low-end laptops or netbooks)
 
 *In the past, we supported Mac and Linux as well. But this was dropped due to lack of developer support. While we have instructions for Mac and Linux, they may be out-of-date and may no longer work. We do not recommend going this route unless you are computer-saavy and are willing to debug shell scripts.*
 

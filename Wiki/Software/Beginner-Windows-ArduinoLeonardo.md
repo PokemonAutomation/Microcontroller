@@ -2,6 +2,8 @@
 
 This is the third step in the process towards automation! Below you will find information on how to setup and use the hardware you bought in **PART 2**.
 
+> As a reminder: the Switch Lite does not output video feedback. It will not work for programs requiring video feedback.
+
 ## Step 1:  Install WinAVR
 
 Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).

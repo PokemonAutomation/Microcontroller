@@ -90,6 +90,12 @@ Pokémon BDSP has proven itself to be very resistent to non-feedback automation.
 - [Egg Hatcher](PokemonBDSP/EggHatcher.md)
 
 
+## Pokémon Scarlet and Violet
+
+**Glitches:**
+- [Item Dupe](PokemonSV/ItemDupe.md)
+
+
 <hr>
 
 **Discord Server:** 

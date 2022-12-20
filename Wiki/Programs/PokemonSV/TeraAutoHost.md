@@ -26,10 +26,10 @@ Automatically Host Tera Raids for Discord/Twitch without the use of a Serial Con
 6. Set your System Time to anything before 10 PM and after 1:59 AM
 
 ### Application Setup
-1. Have your Discord WebHook URL ready and make sure the folder is located in ``Downloads`` and named ``TeraAutoHost``
+1. Have your Discord WebHook URL ready and know what port your capture card is lacated at
 2. Install Python from [here](https://www.python.org/downloads/ "here")
 3. Open Terminal/Command Prompt and run the following commands ``pip install pytesseract``, ``pip install opencv-python``, ``pip install discord-webhook``, and ``pip install rich``
-4. Now run ``cd Downloads/TeraAutoHost``
+4. Now run ``cd Downloads/PA-NativePrograms-<VERSION>/NativePrograms/PokemonSV/Programs``
 5. Then run ``python3 autohost.py``
 6. Enter in WebHook URL
 7. Select Video Capture Device

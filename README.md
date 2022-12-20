@@ -27,6 +27,7 @@ If are new to automation and you came here intending to run [AutoMaxLair](https:
   - [Nintendo Switch](Wiki/Programs/README.md#nintendo-switch)
   - [Pokémon Sword/Shield](Wiki/Programs/README.md#pokémon-swordshield)
   - [Pokémon Brilliant Diamond/Shining Pearl](Wiki/Programs/README.md#pokémon-brilliant-diamondshining-pearl)
+  - [Pokémon Scarlet and Violet](Wiki/Programs/README.md#pokémon-scarlet-and-violet)
 - [Version History](Wiki/VersionHistory.md)
 
 ## Microcontroller Automation

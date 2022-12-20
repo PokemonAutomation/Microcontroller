@@ -95,6 +95,8 @@ Pokémon BDSP has proven itself to be very resistent to non-feedback automation.
 **Glitches:**
 - [Item Dupe](PokemonSV/ItemDupe.md)
 
+**Hosting:**
+- [Tera Auto Host](PokemonSV/TeraAutoHost.md)
 
 <hr>
 

@@ -2,7 +2,7 @@
 **CAPTURE CARD REQUIRED**
 
 **Related Programs:**
-- **Microcontroller:** [Tera Raid AutoHost](https://github.com/Vaedz7/Microcontroller/blob/master/Wiki/Programs/PokemonSV/TeraAutoHost.md) (this program)
+- **Microcontroller:** [Tera Raid AutoHost](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/TeraAutoHost.md) (this program)
 - **Computer Control:** [Tera Auto-Host](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/AutoHost.md)
 
 ## Program Description

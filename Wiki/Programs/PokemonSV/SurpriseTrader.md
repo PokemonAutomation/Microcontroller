@@ -14,7 +14,7 @@ This program will surprise trade entire boxes of Pokémon. The main use case is 
 
 1. Text Speed: Fast
 2. Cursor Anywhere in starting box
-3. Have entire dex filled up (Preferable but not necessary, if not then there may be errors in recieving Pokemon)
+3. Have entire dex filled up (Preferable but not necessary, if not then there may be errors in receiving Pokemon)
 
 > If you wish to trade online, be connected to the internet before you start the program. Thus you will need to be fast when starting the program or you will be disconnected.
 

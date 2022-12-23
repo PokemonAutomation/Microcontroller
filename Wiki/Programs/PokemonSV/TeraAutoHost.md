@@ -11,11 +11,8 @@ Automatically Host Tera Raids for Discord/Twitch without the use of a Serial Con
 
 ## Setup of Settings
 ### Board Setup
-1. Follow Microcontroller guide by Pokemon Automation [here](https://github.com/PokemonAutomation/Microcontroller "here")
-2. Download program(s) from **THIS REPOSITORY**
-3. Copy and Paste ``TeraAutoHost_Core.c`` to ``CustomProgram_Core.c``
-4. Compile CustomProgram.hex file for your board
-5. Flash HEX file to your board
+1. Compile TeraAutoHost.hex file for your board using the PA Hex Generator
+2. Flash HEX file to your board
 
 ### In Game Setup
 1. Stand in front of the Den you wish to host facing the crystal

@@ -23,7 +23,7 @@ As its name implies, this program will automatically farm coins from roaming gim
 
 ## Options
 
-Number of Attempts: <Days to skip>
+Number of Attempts: Set to the number of days to skip
 
 ## Credits
 

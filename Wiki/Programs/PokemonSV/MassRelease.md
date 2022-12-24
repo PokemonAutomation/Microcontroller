@@ -32,7 +32,7 @@ Once started, this program will release the specified number of boxes consecutiv
 
 ## Options
 
-Pokemon to Release: <Number of Pokemon to be released starting from cursor>
+Pokemon to Release: Set to the number of Pokemon to be released starting from cursor
 
 
 ## Credits

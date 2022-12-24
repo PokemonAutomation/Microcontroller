@@ -21,8 +21,10 @@ This program will buy a specified number of specified items from a shop.
 ## Options
 
 Pay with LP: [Yes or No]
-Items to Buy: <Number of different items to purchase>
-Quantity to Buy: <Number of each item to buy>
+
+Items to Buy: Set to the number of different items to purchase
+  
+Quantity to Buy: Set to the number of each item to buy
 
 
 ## Credits

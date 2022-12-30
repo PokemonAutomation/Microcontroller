@@ -1,4 +1,5 @@
-# Online Surprise Trader
+# Online Surprise Trader - DEVELOPER ONLY
+This program isn't publicly available because of {insert website here}.
 
 **Related Programs:**
 - **Microcontroller:** [Surprise Trade](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/SurpriseTrader.md) (this program)

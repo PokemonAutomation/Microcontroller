@@ -92,14 +92,22 @@ Pokémon BDSP has proven itself to be very resistent to non-feedback automation.
 
 ## Pokémon Scarlet and Violet
 
+**General:**
+- [Mass Release](PokemonSV/MassRelease.md)
+- [Mass Purchase](PokemonSV/MassPurchase.md)
+- [Roaming Gimmighoul Farmer](PokemonSV/RoamingGimmighoulFarmer.md)
+
 **Glitches:**
 - [Item Dupe](PokemonSV/ItemDupe.md)
+
+**Eggs:**
+- [Egg Fetcher](PokemonSV/EggFetcher.md)
 
 **Hosting:**
 - [Tera Auto Host](PokemonSV/TeraAutoHost.md) (In Development)
 
 **Trading:**
-- [Surprise Trader](PokemonSV/SurpriseTrader.md)
+- [Surprise Trader](PokemonSV/SurpriseTrader.md) (Developer Only)
 
 <hr>
 

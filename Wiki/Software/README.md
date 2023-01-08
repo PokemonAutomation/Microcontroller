@@ -8,10 +8,10 @@ The software tutorial will differ depending on what OS and what microcontroller 
 
 | | Windows | macOS |
 | --- | --- | --- |
-| Teensy 2.0 and Teensy++ 2.0 | [Guide](Windows-Teensy2.md) | [Guide](Mac-Teensy2.md) |
-| Pro Micro | [Guide](Windows-ProMicro.md) | [Guide](Mac-ArduinoProMicro.md) |
-| Arduino Leonardo | [Guide](Windows-ArduinoLeonardo.md) | [Guide](Mac-ArduinoProMicro.md) |
-| Arduino Uno R3 | [Guide](Windows-ArduinoUnoR3.md) | [Guide](Mac-ArduinoProMicro.md) |
+| Teensy 2.0 and Teensy++ 2.0 | [Guide](Windows-Teensy2.md) | [Guide](Mac.md) |
+| Pro Micro | [Guide](Windows-ProMicro.md) | [Guide](Mac.md) |
+| Arduino Leonardo | [Guide](Windows-ArduinoLeonardo.md) | [Guide](Mac.md) |
+| Arduino Uno R3 | [Guide](Windows-ArduinoUnoR3.md) | [Guide](Mac.md) |
 
 
 <hr>

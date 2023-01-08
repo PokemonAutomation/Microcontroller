@@ -103,7 +103,7 @@ At this point, two green arrows should show up in Teensy Loader.
 
 <img src="images/digging-duo.jpg" height="400">
 
-2. Navigate to the grip menu without closing the game. This disconnects all controllers from the Switch so that the Pro Micro can take over.
+2. Navigate to the grip menu without closing the game. This disconnects all controllers from the Switch so that the microcontroller can take over.
 
 <img src="images/grip-menu.jpg" height="400">
 
@@ -113,7 +113,7 @@ The program should now begin running. It will flash its light for a few seconds,
 
 **Usage Notes:**
 
-- To stop the program, simply unplug the Pro Micro at any time.
+- To stop the program, simply unplug the microcontroller at any time.
 - Do not change video output or mess with the HDMI. These can cause the program to Switch to freeze for multiple seconds and break the program. If you want turn off the TV, do it *before* you start the program.
 
 ## Other Microcontroller-Only Programs
@@ -124,7 +124,6 @@ You can choose any of the other microcontroller-only programs stored in `NativeP
 - [Program List](/Wiki/Programs/README.md)
 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
-You can find the manual for a program by clicking on the "Online Documentation" link.
 
 ## Computer-Controlled Programs
 

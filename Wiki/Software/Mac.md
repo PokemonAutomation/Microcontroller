@@ -11,10 +11,10 @@ You will need to run and debug a script that is no longer supported by us to gen
 ## Step 1: Acquire the Hardware
 
 Make sure you have one of the hardware:
-- [Hardware - Arduino Leonardo](/Wiki/Hardware/ArduinoLeonardo.md)
-- [Hardware - Teensy 2.0 and Teensy++ 2.0](/Wiki/Hardware/Teensy2.md)
-- [Hardware - Pro Micro](/Wiki/Hardware/ProMicro.md)
-- [Hardware - Arduino Uno R3](/Wiki/Hardware/ArduinoUnoR3.md)
+- [Hardware - Arduino Leonardo](../Hardware/ArduinoLeonardo.md)
+- [Hardware - Teensy 2.0 and Teensy++ 2.0](../Hardware/Teensy2.md)
+- [Hardware - Pro Micro](../Hardware/ProMicro.md)
+- [Hardware - Arduino Uno R3](../Hardware/ArduinoUnoR3.md)
 
 ## Step 2: Install Homebrew and AVR
 

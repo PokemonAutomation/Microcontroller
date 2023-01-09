@@ -6,7 +6,7 @@ This section will walk you through the entire process of setting up your Teensy 
 
 Make sure you have the hardware:
 
-* [Hardware - Teensy 2.0 and Teensy++ 2.0](/Wiki/Hardware/Teensy2.md)
+* [Hardware - Teensy 2.0 and Teensy++ 2.0](../Hardware/Teensy2.md)
 
 ## Step 2: Install WinAVR
 

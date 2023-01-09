@@ -8,7 +8,7 @@ This section will walk you through the entire process of setting up your Leonard
 
 Make sure you have the hardware:
 
-- [Hardware - Arduino Leonardo](/Wiki/Hardware/ArduinoLeonardo.md)
+- [Hardware - Arduino Leonardo](../Hardware/ArduinoLeonardo.md)
 
 ## Step 2: Install WinAVR
 

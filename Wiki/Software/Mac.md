@@ -127,7 +127,7 @@ It is important to read the manual for a program before you use it. Each program
 
 ## Computer-Controlled Programs
 
-Continue to this [guide](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Software/README.md).
+Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
 
 <hr>
 

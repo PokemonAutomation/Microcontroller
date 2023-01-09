@@ -21,11 +21,11 @@ If you would like to use computer-controlled programs, make sure you meet all of
 - If you intend to control **2** Switches: A quad-core processor @ 3 GHz no older than 2015 should be sufficient.
 - If you intend to control **4** Switches: 6-8 cores minimum.
 
-## Hardware
+## Microcontroller Hardware
 
 Follow the [hardware guide](../Hardware/Hardware.md).
 
-## Software
+## Microcontroller Software
 
 Click the link below based on the microcontroller and OS.
 
@@ -35,6 +35,12 @@ Click the link below based on the microcontroller and OS.
 | Teensy 2.0 and Teensy++ 2.0 | [Guide](../Software/Windows-Teensy2.md) | [Guide](../Software/Mac.md) |
 | Pro Micro | [Guide](../Software/Windows-ProMicro.md) | [Guide](../Software/Mac.md) |
 | Arduino Uno R3 (not recommended)| [Guide](../Software/Windows-ArduinoUnoR3.md) | [Guide](../Software/Mac.md) |
+
+## Computer-Controlled Tutorial
+
+If you only need microcontroller-only programs, then you are done.
+
+If you need computer-controlled programs, continue to the [Computer-Controlled tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
 
 <hr>
 

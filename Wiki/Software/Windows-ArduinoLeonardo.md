@@ -96,7 +96,7 @@ You now know how to run TurboA - the most basic of the programs. You can choose 
 It is important to read the manual for a program before you use it. Each program has a different set of instructions and startup conditions.
 You can find the manual for a program by clicking on the "Online Documentation" link.
 
-## Computer-Control
+## Computer-Controlled Programs
 
 Now that you are done with the Microncontroller tutorial, you can proceed to the [Computer-Control tutorial](https://github.com/PokemonAutomation/ComputerControl/tree/master/Wiki/Hardware/README.md).
 

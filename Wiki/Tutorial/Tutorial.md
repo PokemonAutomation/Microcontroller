@@ -7,13 +7,13 @@ You must start here regardless you choose microcontroller-only or computer-contr
 
 Before you begin, make sure **you have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets. You need to have a Windows, macOS or Linux laptop/desktop computer (or a high-end Windows tablet) that you can install software on it.
 
-*In the past, we supported building microcontroller-only .hex files for Mac and Linux . But this was dropped due to lack of developer support. While we still have instructions for Mac and Linux, they may be out-of-date and may no longer work. We do not recommend going this route unless you are computer-saavy and are willing to debug shell scripts.*
+*In the past, we supported building microcontroller-only .hex files for Mac and Linux . But this was dropped due to lack of developer support. While we still have instructions for Mac and Linux, they may be out-of-date and may no longer work. We do not recommend going this route unless you are computer-savvy and are willing to debug shell scripts.*
 
 ### Requirements for Computer-Controlled Programs
 
 If you would like to use computer-controlled programs, make sure you meet all of the following requirements:
 
-1. You have computer running 64-bit Windows or macOS. As of this writing, no other platforms are supported. But if you use Linux, then you should be computer-savy enough to adapt our macOS guide to work for your Linux. 
+1. You have computer running 64-bit Windows or macOS. As of this writing, no other platforms are supported. But if you use Linux, then you should be computer-savvy enough to adapt our macOS guide to work for your Linux. 
 2. You have a regular Switch (not a Switch Lite) if you want to use most of the computer-controlled programs (i.e. programs requiring video/audio feedback).
 3. Be willing to spend an additional $20 - $50 USD for the new hardware.
 4. Your computer must be sufficiently powerful:

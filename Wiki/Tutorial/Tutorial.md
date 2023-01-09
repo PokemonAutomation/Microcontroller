@@ -13,7 +13,7 @@ Before you begin, make sure **you have a computer.** This used to go without say
 
 If you would like to use computer-controlled programs, make sure you meet all of the following requirements:
 
-1. You have computer running 64-bit Windows or macOS. As of this writing, no other platforms are supported. But if you use Linux, then you should be computer-savvy enough to adapt our macOS guide to work for your Linux. 
+1. You have computer running 64-bit Windows or macOS. As of this writing, no other platforms are supported. But if you use Linux, you should be computer-savvy enough to adapt our macOS guide to work for your Linux. 
 2. You have a regular Switch (not a Switch Lite) if you want to use most of the computer-controlled programs (i.e. programs requiring video/audio feedback).
 3. Be willing to spend an additional $20 - $50 USD for the new hardware.
 4. Your computer must be sufficiently powerful:
@@ -23,7 +23,7 @@ If you would like to use computer-controlled programs, make sure you meet all of
 
 ## Microcontroller Hardware
 
-Follow the [hardware guide](../Hardware/Hardware.md).
+Follow the [hardware guide](../Hardware/Hardware.md) to purchase all the hardware for automation.
 
 ## Microcontroller Software
 

@@ -92,6 +92,8 @@ Pokémon BDSP has proven itself to be very resistent to non-feedback automation.
 
 ## Pokémon Scarlet and Violet
 
+Note that these programs for Scarlet/Violet are less stable than their [computer-control counter parts](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-scarlet-and-violet) due to the games instability and tendency to randomly drop button presses.
+
 **General:**
 - [Mass Release](PokemonSV/MassRelease.md)
 - [Mass Purchase](PokemonSV/MassPurchase.md)

@@ -12,6 +12,7 @@ As of this writing, all programs on this list can run on all 4 microcontrollers 
 - [Nintendo Switch](#nintendo-switch)
 - [Pokémon Sword/Shield](#pokémon-swordshield)
 - [Pokémon Brilliant Diamond/Shining Pearl](#pokémon-brilliant-diamondshining-pearl)
+- [Pokémon Scarlet/Violet](#pokémon-scarletviolet)
 
 ## Nintendo Switch
 
@@ -90,7 +91,7 @@ Pokémon BDSP has proven itself to be very resistent to non-feedback automation.
 - [Egg Hatcher](PokemonBDSP/EggHatcher.md)
 
 
-## Pokémon Scarlet and Violet
+## Pokémon Scarlet/Violet
 
 Note that these programs for Scarlet/Violet are less stable than their [computer-control counter parts](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md#pok%C3%A9mon-scarlet-and-violet) due to the games instability and tendency to randomly drop button presses.
 

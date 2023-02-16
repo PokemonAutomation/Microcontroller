@@ -22,6 +22,10 @@ Make Sandwiches and Collect Eggs.
 **Strongly Recommended:**
 - Bringing small Pokemon to avoid bumping into them.
 
+### Ingredient Setup
+
+1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected)
+
 ### Instructions
 
 1. Your party consists of 2 Pokemon that can breed.
@@ -32,7 +36,9 @@ Make Sandwiches and Collect Eggs.
 
 ## Options
 
-Use Sweet Herba Mystica: Yes/No (1 Sweet HM will be used per sandwich if Yes). 
+Use Sweet Herba Mystica:
+**Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+**No:** Egg Power 1 (1 Ham + 1 Butter)
 
 Position of Butter from Top of Menu: Where is Butter Located from the top of the menu (EX: If it is the 1st item you would put 1).
 

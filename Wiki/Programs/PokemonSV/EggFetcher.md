@@ -37,8 +37,8 @@ Make Sandwiches and Collect Eggs.
 ## Options
 
 Use Sweet Herba Mystica:
-**Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
-**No:** Egg Power 1 (1 Ham + 1 Butter)
+- **Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+- **No:** Egg Power 1 (1 Ham + 1 Butter)
 
 Position of Butter from Top of Menu: Where is Butter Located from the top of the menu (EX: If it is the 1st item you would put 1).
 

@@ -20,6 +20,8 @@ Autonomously Duplicate x999 Items in ~6 hours. This program will automatically f
 **Strongly Recommended:**
 - Being Indoors to prevent errors
 
+<img src="images/ItemDupe.png">
+
 ### Instructions
 
 1. Your party is full and Legendary is in slot 1

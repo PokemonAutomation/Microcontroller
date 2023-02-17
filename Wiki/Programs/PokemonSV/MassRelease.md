@@ -9,11 +9,13 @@ The microcontroller and computer-control versions of this program are functional
 
 ## Program Description
 
-MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects. There may be errors which will be reset every box, this may cause some boxes to not be fully released.
+MassRelease will release entire boxes of Pokémon. The main use case is getting rid of breedjects. There may be errors which will be reset every box, this may cause some boxes to not be fully released. **Beware, MC Mass Release WILL RELEASE SHINIES**
 
 ### Setup of Settings
 
 1. Text Speed: Fast
+
+<img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/images/MassRelease-0.png">
 
 ### Box Setup
 

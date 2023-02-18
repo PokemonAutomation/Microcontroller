@@ -105,9 +105,7 @@ Note that these programs for Scarlet/Violet are less stable than their [computer
 
 **Eggs:**
 - [Egg Fetcher](PokemonSV/EggFetcher.md)
-
-**Hosting:**
-- [Tera Auto Host](PokemonSV/TeraAutoHost.md) (In Development)
+- [Egg Hatcher](PokemonSV/EggHatcher.md)
 
 **Trading:**
 - [Surprise Trader](PokemonSV/SurpriseTrader.md) (Developer Only)

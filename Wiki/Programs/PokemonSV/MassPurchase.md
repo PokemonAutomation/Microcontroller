@@ -12,6 +12,8 @@ This program will buy a specified number of specified items from a shop.
 
 1. Text Speed: Fast
 
+<img src="https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/images/MassPurchase.png">
+
 ### Instructions
 
 1. You are in a shop hovering over the first item that you want to buy

@@ -38,7 +38,7 @@ Scarlet & Violet is known to drop button inputs, it is not recommended to hatch 
 ### Instructions
 
 1. You are at the position right after flying to Zero Gate.
-2. Start the program in game.
+2. Start the program in change grip menu.
 
 ## Options
 

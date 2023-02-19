@@ -24,15 +24,15 @@ Make Sandwiches and Collect Eggs.
 
 ### Ingredient Setup
 
-1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected)
+1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
+2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
 
 ### Instructions
 
 1. Your party consists of 2 Pokemon that can breed.
-2. You are in a picnic and standing between the basket and the table, as in the picture:
-   <img src="images/EggFetcher.png">
-3. Start the program in game.
-
+2. You are at the position right after flying to Zero Gate.
+3. Cursor must be on Picnic when opening the menu.
+4. Start the program in change grip menu.
 
 ## Options
 

@@ -104,6 +104,7 @@ Note that these programs for Scarlet/Violet are less stable than their [computer
 - [Item Dupe](PokemonSV/ItemDupe.md)
 
 **Eggs:**
+- [Egg Combined](PokemonSV/EggCombined.md)
 - [Egg Fetcher](PokemonSV/EggFetcher.md)
 - [Egg Hatcher](PokemonSV/EggHatcher.md)
 

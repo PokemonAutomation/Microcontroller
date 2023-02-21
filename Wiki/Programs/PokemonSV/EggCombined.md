@@ -1,8 +1,8 @@
-# Egg Fetcher
+# Egg Combined
 
 **Related Programs:**
-- **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md) (this program)
-- **Microcontroller:** [Egg Combined](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggCombined.md)
+- **Microcontroller:** [Egg Combined](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggCombined.md) (this program)
+- **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Microcontroller:** [Egg Fetcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggFetcher.md)
 - **Computer Control:** [Egg Fetcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggFetcher.md)
 - **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
@@ -12,11 +12,11 @@ The microcontroller and computer-control versions of this program are conceptual
 
 ## Program Description
 
-Hatch eggs from box at Zero Gate.
+Collect eggs in picnic by making X sandwiches, then hatch Y boxes of eggs.
 
 ## Safety Precautions
 
-Scarlet & Violet is known to drop button inputs, it is not recommended to hatch more than 10 boxes in 1 run. Put your console in airplane mode to prevent accidentally going online.
+Scarlet & Violet is known to drop button inputs, it is not recommended to make more than 7 sandwiches and/or hatch more than 10 boxes in 1 run. Put your console in airplane mode to prevent accidentally going online.
 
 ### Setup of Settings
 
@@ -24,26 +24,31 @@ Scarlet & Violet is known to drop button inputs, it is not recommended to hatch 
 2. Send to box: Auto
 3. Nickname: Off
 
-### Party Setup
+### Ingredient Setup
 
-1. Without cloned rider: Your party must have only 1 Flame Body (or similar) Pokemon
-2. With cloned rider: Your party must have only 2 Pokemon, the Flame Body (or similar) Pokemon in lead with cloned rider in 2nd party slot.
+1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
+2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
 
 ### Box Setup
 
-1. Place entire boxes filled with Eggs consecutively. It is okay to have non-Eggs mixed in with eggs. The only requirement is that each column has at least 1 Pokemon/Egg.
-2. You must be on the first box of Eggs.
-3. Cursor must be on Boxes when opening the menu.
-   <img src="images/EggHatcher.png">
+1. Place a Flame Body or similar Pokemon to the first slot in the box to the left of the initial egg collection box. Parents will be deposited in this box after sandwich making.
 
 ### Instructions
 
 1. You are at the position right after flying to Zero Gate.
-2. Start the program in change grip menu.
+2. Cursor must be on Picnic when opening the menu.
+   <img src="images/EggFetcher2.png">
+3. Start the program in change grip menu.
 
 ## Options
 
-Boxes to Hatch: Select number of boxes to hatch.
+Use Sweet Herba Mystica:
+- **Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+- **No:** Egg Power 1 (1 Ham + 1 Butter)
+
+Maximum amount of sandwiches to make: The maximum amount of sandwiches the program should make.
+
+Boxes to Hatch: Select number of boxes to hatch. The optimum ratio is about 2:3 for Egg Power 1 and 1:2 for Egg Power 2.
 
 Step Count: The number of steps needed to hatch the eggs. Look up the value on Serebii.
 

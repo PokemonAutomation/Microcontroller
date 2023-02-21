@@ -48,7 +48,7 @@ Use Sweet Herba Mystica:
 
 Maximum amount of sandwiches to make: The maximum amount of sandwiches the program should make.
 
-Boxes to Hatch: Select number of boxes to hatch. The optimum ratio is about 2:3 for Egg Power 1 and 1:2 for Egg Power 2.
+Boxes to Hatch: Select number of boxes to hatch. The optimal ratio of sandwich to box is about 2:3 for Egg Power 1 and 1:2 for Egg Power 2.
 
 Step Count: The number of steps needed to hatch the eggs. Look up the value on Serebii.
 

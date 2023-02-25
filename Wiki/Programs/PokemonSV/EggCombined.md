@@ -33,7 +33,8 @@ Additional stability recommendations:
 
 ### Party Setup
 
-1. If you have a cloned rider, place it in your 2nd party slot.
+1. Your party consists of 2 Pokemon that can breed.
+2. If you have a cloned rider, place it in your 2nd party slot.
 
 ### Box Setup
 

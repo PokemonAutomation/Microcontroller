@@ -31,6 +31,10 @@ Additional stability recommendations:
 1. Text Speed: Fast
 2. Auto-save: Off
 
+### Party Setup
+
+1. Your party consists of 2 Pokemon that can breed.
+
 ### Box Setup
 
 1. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
@@ -45,13 +49,12 @@ Additional stability recommendations:
 
 ### Instructions
 
-1. Your party consists of 2 Pokemon that can breed.
-2. Cursor must be on Picnic when opening the menu.
+1. Cursor must be on Picnic when opening the menu.
    
    <img src="images/EggFetcher2.png">
-   
-3. Fly to Zero Gate.
-4. Start the program in the Change Grip menu.
+
+2. Fly to Zero Gate.
+3. Start the program in the Change Grip menu.
 
 ## Options
 

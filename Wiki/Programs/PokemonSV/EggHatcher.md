@@ -8,50 +8,58 @@
 - **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Computer Control:** [Egg Autonmous](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggAutonomous.md)
 
-The microcontroller and computer-control versions of this program are conceptually similar.
+The microcontroller and computer-control versions of this program are conceptually similar, with the microcontroller version being less error tolerant without capture card feedback (see Safety Precautions below).
 
 ## Program Description
 
-Hatch eggs from box at Zero Gate.
+Hatch eggs from box.
 
 ## Safety Precautions
 
-Scarlet & Violet is known to drop button inputs, it is not recommended to hatch more than 10 boxes in 1 run. Put your console in airplane mode to prevent accidentally going online.
+Scarlet & Violet is known to drop button inputs and can break the proper sequence of the program. It is therefore recommended to run this program with some level of supervising if you plan to run it for extended periods of time. 
 
-### Setup of Settings
+Additional stability recommendations:
+- putting your console in airplane mode
+- restart the game after a hard save
+
+## Program Setup
+
+### Game Settings
 
 1. Text Speed: Fast
 2. Send to box: Auto
 3. Nickname: Off
+4. Auto-save: Off
 
 ### Party Setup
 
-1. Without cloned rider: Your party must have only 1 Flame Body (or similar) Pokemon
-2. With cloned rider: Your party must have only 2 Pokemon, the Flame Body (or similar) Pokemon in lead with cloned rider in 2nd party slot.
+1. Have a Flame Body (or similar ability) Pokemon as your lead Pokemon.
+2. If you have a cloned rider, place it in your 2nd party slot.
+3. Leave the rest of the party slots empty.
 
 ### Box Setup
 
-1. Place entire boxes filled with Eggs consecutively. It is okay to have non-Eggs mixed in with eggs. The only requirement is that each column has at least 1 Pokemon/Egg.
-2. You must be on the first box of Eggs.
-3. Cursor must be on Boxes when opening the menu.
-   <img src="images/EggHatcher.png">
+1. Place entire boxes filled with Eggs consecutively. It is okay to have a mix of Pokemon and Eggs. The only requirement is that each column has at least 1 Pokemon/Egg.
+2. You must be on the first box of Eggs to hatch.
 
 ### Instructions
 
-1. You are at the position right after flying to Zero Gate.
-2. Start the program in change grip menu.
+1. Cursor must be on Picnic when opening the menu.
+   <img src="images/EggHatcher.png">
+2. Fly to Zero Gate.
+3. Start the program in the Change Grip menu.
 
 ## Options
 
-Boxes to Hatch: Select number of boxes to hatch.
+**Boxes to Hatch:** Select number of boxes to hatch. The optimal ratio of sandwich to box depends on the parent's compatibility and Egg Power level used.
 
-Step Count: The number of steps needed to hatch the eggs. Look up the value on Serebii.
+**Step Count:** The number of steps needed to hatch the eggs. Look up the value on Serebii.
 
-Has cloned rider: Check this box if you have a cloned rider in your 2nd party slot.
+**Has cloned rider:** Check this box if you have a cloned rider in your 2nd party slot.
 
 ## Advanced Options
 
-Safety Coefficient: If you note that the program prematurely moves to the next column of eggs frequently, increasing the number will extend the hatching time per cycle.
+**Safety Coefficient:** If you note that the program frequently misses the last few eggs per column, increasing this number will extend the hatching time per cycle.
 
 ## Credits
 

@@ -8,45 +8,56 @@
 - **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Computer Control:** [Egg Autonmous](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggAutonomous.md)
 
-The microcontroller and computer-control versions of this program are conceptually similar.
+The microcontroller and computer-control versions of this program are conceptually similar, with the microcontroller version being less error tolerant without capture card feedback (see Safety Precautions below).
 
 ## Program Description
 
-Make Sandwiches and Collect Eggs.
+Collect eggs in picnic by making Egg Power sandwiches
+
+***Update Notice: Required setup for EggFetcher has been significantly changed from v0.5.20, please re-read this page for the updated instructions***
 
 ## Safety Precautions
 
-Scarlet & Violet is known to drop button inputs, it is not recommended to make more than 7 sandwiches in 1 run. Put your console in airplane mode to prevent accidentally going online.
+Scarlet & Violet is known to drop button inputs and can break the proper sequence of the program. It is therefore recommended to run this program with some level of supervising if you plan to run it for extended periods of time. 
 
-### Setup of Settings
+Additional stability recommendations:
+- putting your console in airplane mode
+- restart the game after a hard save
+
+## Program Setup
+
+### Game Settings
 
 1. Text Speed: Fast
-2. Current box and consecutive boxes to the right have spaces to deposit eggs
-3. You have completed the Picnic/Sandwich tutorial
+2. Auto-save: Off
 
-**Strongly Recommended:**
-- Bringing small Pokemon to avoid bumping into them.
+### Box Setup
+1. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
+2. You have completed the Picnic/Sandwich tutorial.
 
-### Ingredient Setup
+### Picnic Setup
 
 1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
 2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
+3. Having completed the Picnic/Sandwich tutorial.
+
+**Strongly Recommended:** Bring small Pokemon to avoid bumping into them.
 
 ### Instructions
 
 1. Your party consists of 2 Pokemon that can breed.
-2. You are at the position right after flying to Zero Gate.
-3. Cursor must be on Picnic when opening the menu.
+2. Cursor must be on Picnic when opening the menu.
    <img src="images/EggFetcher2.png">
-4. Start the program in change grip menu.
+3. Fly to Zero Gate.
+4. Start the program in the Change Grip menu.
 
 ## Options
 
-Use Sweet Herba Mystica:
-- **Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
-- **No:** Egg Power 1 (1 Ham + 1 Butter)
+**Use Sweet Herba Mystica:**
+- Yes: Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+- No:  Egg Power 1 (1 Ham + 1 Butter)
 
-Maximum amount of sandwiches to make: The maximum amount of sandwiches the program should make.
+**Maximum amount of sandwiches to make:** The maximum amount of sandwiches the program should make.
 
 ## Credits
 

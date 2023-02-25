@@ -8,55 +8,64 @@
 - **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Computer Control:** [Egg Autonmous](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggAutonomous.md)
 
-The microcontroller and computer-control versions of this program are conceptually similar.
+The microcontroller and computer-control versions of this program are conceptually similar, with the microcontroller version being less error tolerant without capture card feedback (see Safety Precautions below).
 
 ## Program Description
 
-Collect eggs in picnic by making X sandwiches, then hatch Y boxes of eggs.
+Collect eggs in picnic by making Egg Power sandwiches, then hatch eggs from box.
 
 ## Safety Precautions
 
-Scarlet & Violet is known to drop button inputs, it is not recommended to make more than 7 sandwiches and/or hatch more than 10 boxes in 1 run. Put your console in airplane mode to prevent accidentally going online.
+Scarlet & Violet is known to drop button inputs and can break the proper sequence of the program. It is therefore recommended to run this program with some level of supervising if you plan to run it for extended periods of time. 
 
-### Setup of Settings
+Additional stability recommendations:
+- putting your console in airplane mode
+- restart the game after a hard save
+
+## Program Setup
+
+### Game Settings
 
 1. Text Speed: Fast
 2. Send to box: Auto
 3. Nickname: Off
+4. Auto-save: Off
 
-### Ingredient Setup
+### Picnic Setup
 
 1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
 2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
+3. Having completed the Picnic/Sandwich tutorial.
 
 ### Box Setup
 
-1. Place a Flame Body or similar Pokemon to the first slot in the box to the left of the initial egg collection box. Parents will be deposited in this box after sandwich making.
+1. Place a Flame Body (or similar ability) Pokemon on the first slot in the box to the left of the initial egg collection box and leave the left two columns empty. Parents will be deposited in this box after fetching eggs at picnic.
+2. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
 
 ### Instructions
 
-1. You are at the position right after flying to Zero Gate.
-2. Cursor must be on Picnic when opening the menu.
+1. Cursor must be on Picnic when opening the menu.
    <img src="images/EggFetcher2.png">
-3. Start the program in change grip menu.
+2. Fly to Zero Gate.
+3. Start the program in the Change Grip menu.
 
 ## Options
 
-Use Sweet Herba Mystica:
-- **Yes:** Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
-- **No:** Egg Power 1 (1 Ham + 1 Butter)
+**Use Sweet Herba Mystica:**
+- Yes: Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+- No:  Egg Power 1 (1 Ham + 1 Butter)
 
-Maximum amount of sandwiches to make: The maximum amount of sandwiches the program should make.
+**Maximum amount of sandwiches to make:** The maximum amount of sandwiches the program should make.
 
-Boxes to Hatch: Select number of boxes to hatch. The optimal ratio of sandwich to box is about 2:3 for Egg Power 1 and 1:2 for Egg Power 2.
+**Boxes to Hatch:** Select number of boxes to hatch. The optimal ratio of sandwich to box depends on the parent's compatibility and Egg Power level used.
 
-Step Count: The number of steps needed to hatch the eggs. Look up the value on Serebii.
+**Step Count:** The number of steps needed to hatch the eggs. Look up the value on Serebii.
 
-Has cloned rider: Check this box if you have a cloned rider in your 2nd party slot.
+**Has cloned rider:** Check this box if you have a cloned rider in your 2nd party slot.
 
 ## Advanced Options
 
-Safety Coefficient: If you note that the program prematurely moves to the next column of eggs frequently, increasing the number will extend the hatching time per cycle.
+**Safety Coefficient:** If you note that the program frequently misses the last few eggs per column, increasing this number will extend the hatching time per cycle.
 
 ## Credits
 

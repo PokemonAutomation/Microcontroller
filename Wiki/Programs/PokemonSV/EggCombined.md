@@ -31,25 +31,34 @@ Additional stability recommendations:
 3. Nickname: Off
 4. Auto-save: Off
 
-### Picnic Setup
+### Party Setup
 
-1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
-2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
-3. Having completed the Picnic/Sandwich tutorial.
+1. If you have a cloned rider, place it in your 2nd party slot.
 
 ### Box Setup
 
 1. Place a Flame Body (or similar ability) Pokemon on the first slot in the box to the left of the initial egg collection box and leave the left two columns empty. Parents will be deposited in this box after fetching eggs at picnic.
 2. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
 
+### Picnic Setup
+
+1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
+2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
+3. Having completed the Picnic/Sandwich tutorial.
+4. (Optional) Consider bringing smaller Pokemon if the program keeps interacting with Pokemon instead of the basket.
+
 ### Instructions
 
 1. Cursor must be on Picnic when opening the menu.
+   
    <img src="images/EggFetcher2.png">
+
 2. Fly to Zero Gate.
 3. Start the program in the Change Grip menu.
 
 ## Options
+
+If [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) is selected, this program will try to bypass the system update window on game entry.
 
 **Use Sweet Herba Mystica:**
 - Yes: Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)

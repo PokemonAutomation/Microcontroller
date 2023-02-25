@@ -32,6 +32,7 @@ Additional stability recommendations:
 2. Auto-save: Off
 
 ### Box Setup
+
 1. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
 2. You have completed the Picnic/Sandwich tutorial.
 
@@ -40,18 +41,21 @@ Additional stability recommendations:
 1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
 2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
 3. Having completed the Picnic/Sandwich tutorial.
-
-**Strongly Recommended:** Bring small Pokemon to avoid bumping into them.
+4. (Optional) Consider bringing smaller Pokemon if the program keeps interacting with Pokemon instead of the basket.
 
 ### Instructions
 
 1. Your party consists of 2 Pokemon that can breed.
 2. Cursor must be on Picnic when opening the menu.
+   
    <img src="images/EggFetcher2.png">
+   
 3. Fly to Zero Gate.
 4. Start the program in the Change Grip menu.
 
 ## Options
+
+If [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) is selected, this program will try to bypass the system update window on game entry.
 
 **Use Sweet Herba Mystica:**
 - Yes: Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)

@@ -45,11 +45,15 @@ Additional stability recommendations:
 ### Instructions
 
 1. Cursor must be on Picnic when opening the menu.
+   
    <img src="images/EggHatcher.png">
+   
 2. Fly to Zero Gate.
 3. Start the program in the Change Grip menu.
 
 ## Options
+
+If [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) is selected, this program will try to bypass the system update window on game entry.
 
 **Boxes to Hatch:** Select number of boxes to hatch. The optimal ratio of sandwich to box depends on the parent's compatibility and Egg Power level used.
 

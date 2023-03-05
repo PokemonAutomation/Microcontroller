@@ -1,4 +1,4 @@
-# Egg Fetcher
+# Egg Hatcher
 
 **Related Programs:**
 - **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md) (this program)

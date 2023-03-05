@@ -44,7 +44,7 @@ Additional stability recommendations:
 
 ### Instructions
 
-1. Cursor must be on Picnic when opening the menu.
+1. Cursor must be on Boxes when opening the menu.
    
    <img src="images/EggHatcher.png">
    

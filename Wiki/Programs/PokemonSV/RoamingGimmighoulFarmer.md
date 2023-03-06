@@ -15,6 +15,8 @@ As its name implies, this program will automatically farm coins from roaming gim
 
 1. Text Speed: Fast
 
+<img src="https://github.com/PokemonAutomation/ComputerControl/blob/da6371d51878487102458768c6579fdb6a9fe862/Wiki/Programs/PokemonSV/images/RoamingGimmighoulFarm-0.png">
+
 ### Instructions
 
 1. You are standing in front of a Roaming Gimmighoul in a place where wild Pokemon will not attack (EX: Pokemon Center)

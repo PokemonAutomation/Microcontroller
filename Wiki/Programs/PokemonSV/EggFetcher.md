@@ -1,48 +1,75 @@
 # Egg Fetcher
 
 **Related Programs:**
-- **Microcontroller:** [Egg Fetcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/ItemDupe.md) (this program)
+- **Microcontroller:** [Egg Fetcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggFetcher.md) (this program)
+- **Microcontroller:** [Egg Combined](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggCombined.md)
+- **Microcontroller:** [Egg Hatcher](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Computer Control:** [Egg Fetcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggFetcher.md)
+- **Computer Control:** [Egg Hatcher](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggHatcher.md)
 - **Computer Control:** [Egg Autonmous](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/EggAutonomous.md)
 
-The microcontroller and computer-control versions of this program are functionally identical.
+The microcontroller and computer-control versions of this program are conceptually similar, with the microcontroller version being less error tolerant without capture card feedback (see Safety Precautions below).
 
 ## Program Description
 
-Make Sandwiches and Collect Eggs.
+Collect eggs in picnic by making Egg Power sandwiches
 
-### Setup of Settings
+***Update Notice: Required setup for EggFetcher has been significantly changed from v0.5.20, please re-read this page for the updated instructions***
+
+## Safety Precautions
+
+Scarlet & Violet is known to drop button inputs and can break the proper sequence of the program. It is therefore recommended to run this program with some level of supervising if you plan to run it for extended periods of time. 
+
+Additional stability recommendations:
+- putting your console in airplane mode
+- restart the game after a hard save
+
+## Program Setup
+
+### Game Settings
 
 1. Text Speed: Fast
-2. Box Cursor in Egg Deposit Box
-3. You have completed the Picnic/Sandwich tutorial.
+2. Auto-save: Off
 
-**Strongly Recommended:**
-- Bringing small Pokemon to avoid bumping into them.
+### Party Setup
+
+1. Your party consists of 2 Pokemon that can breed.
+
+### Box Setup
+
+1. Current and consecutive boxes to the right have sufficient spaces to deposit eggs.
+2. You have completed the Picnic/Sandwich tutorial.
+
+### Picnic Setup
+
+1. Have sufficient Ham and Butter to make the sandwiches (Sweet Herba Mystica as well if selected).
+2. If using Sweet Herba Mystica, have Recipe #3 unlocked (given by NPC in most sandwich shops).
+3. Having completed the Picnic/Sandwich tutorial.
+4. (Optional) Consider bringing smaller Pokemon if the program keeps interacting with Pokemon instead of the basket.
 
 ### Instructions
 
-1. Your party consists of 2 Pokemon that can breed (Ideally a Ditto and any other breedable Pokemon).
-2. You are in a picnic and standing in front of the egg basket.
-3. Start the program in the [Change Grip/Order Menu](/Wiki/Programs/NintendoSwitch/ChangeGripOrderMenu.md).
+1. Cursor must be on Picnic when opening the menu.
+   
+   <img src="images/EggFetcher2.png">
 
+2. Fly to Zero Gate.
+3. Start the program in the Change Grip menu.
 
 ## Options
 
-Use Sweet Herba Mystica: Yes/No (1 Sweet HM will be used per sandwich if Yes).
+If [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/FrameworkSettings.md#tolerate-system-update-menu-fast) is selected, this program will try to bypass the system update window on game entry.
 
-Position of Butter from Top of Menu: Where is Butter Located from the top of the menu (EX: If it is the 1st item you would put 1).
+**Use Sweet Herba Mystica:**
+- Yes: Egg Power 2 (1 Ham + 1 Butter + 1 Sweet Herba Mystica)
+- No:  Egg Power 1 (1 Ham + 1 Butter)
 
-Position of Sweet HM from Bottom of Menu: Where are Sweet HMs Located from the bottom of the menu (EX: If it is the 2nd last item you would put 2). Leave this empty if Use Sweet Herba Mystica is set to **false**.
-
-Position of Strawberry from Bottom of Menu: Where are Strawberries Located from the bottom of the menu (EX: If it is the 2nd last item you would put 2). Leave this empty if Use Sweet Herba Mystica is set to **true**.
-
-Maximum amount of sandwiches to make: The maximum amount of sandwiches the program should make.
+**Maximum amount of sandwiches to make:** The maximum amount of sandwiches the program should make.
 
 ## Credits
 
 - **Author:** Vaedz7
-
+- **Updated:** Nymphea
 
 <hr>
 

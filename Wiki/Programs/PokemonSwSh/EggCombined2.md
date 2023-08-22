@@ -92,7 +92,7 @@ In addition to the main options below, there are more [global options](PokemonSe
 
 Hatch this many boxes of eggs.
 
-### Egg Cycle:
+### Egg Step-Count:
 
 The number of egg cycles needed to hatch the eggs. Look up the value on [RotomLabs](https://rotomlabs.net/dex).
 

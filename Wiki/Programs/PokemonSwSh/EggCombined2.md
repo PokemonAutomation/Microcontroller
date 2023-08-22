@@ -61,7 +61,7 @@ Be aware that the complexity of this program makes it inherently less reliable t
 
 ### Required Parameters:
 - **Boxes to Hatch**: You MUST set this to the # of boxes you wish to hatch. Otherwise, you either won't hatch all the eggs you want, or the program goes crazy if you run out of eggs.
-- **Step Count**: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small, the program will fail and may unintentionally start a trade. (see Precautions)
+- **Step Count**: You MUST set this to the correct egg cycle for the Pokémon you are hatching. If this is set too small, the program will fail and may unintentionally start a trade. (see Precautions)
 
 The program will hatch eggs in batches of 5 (one column at a time). Once a box is complete, it moves to the next box. It will continue until it has hatched N boxes where N is specified by **"Boxes to Hatch"**.
 
@@ -92,9 +92,9 @@ In addition to the main options below, there are more [global options](PokemonSe
 
 Hatch this many boxes of eggs.
 
-### Egg Step-Count:
+### Egg Cycle:
 
-The number of steps needed to hatch the eggs. Look up the value on Serebii.
+The number of egg cycles needed to hatch the eggs. Look up the value on [RotomLabs](https://rotomlabs.net/dex).
 
 ### Fetches per Batch:
 

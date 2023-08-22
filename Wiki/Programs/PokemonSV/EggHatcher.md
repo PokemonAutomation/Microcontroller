@@ -57,7 +57,7 @@ If [**Tolerate System Update Menu (fast)**](/Wiki/Programs/NintendoSwitch/Framew
 
 **Boxes to Hatch:** Select number of boxes to hatch. The optimal ratio of sandwich to box depends on the parent's compatibility and Egg Power level used.
 
-**Step Count:** The number of steps needed to hatch the eggs. Look up the value on Serebii.
+**Step Count:** The number of egg cycles needed to hatch the eggs. Look up the value on [RotomLabs](https://rotomlabs.net/dex).
 
 **Has cloned rider:** Check this box if you have a cloned rider in your 2nd party slot.
 

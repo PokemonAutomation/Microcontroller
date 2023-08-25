@@ -89,7 +89,7 @@ Starting with Box 3 as the current box, the program will:
 - **Boxes to Release**: You MUST set this parameter correctly or you may release Pokémon you didn't intend to release!
 - **Boxes to Skip**: You MUST set this parameter correctly or you may not hatch the correct boxes.
 - **Boxes to Hatch**: You MUST set this to the # of boxes you wish to hatch. Otherwise, you either won't hatch all the eggs you want, or the program goes crazy if you run out of eggs.
-- **Step Count**: You MUST set this to the correct step-count for the Pokémon you are hatching. If this is set too small or too large, the program will fail and may unintentionally start a trade. (see Precautions)
+- **Step Count**: You MUST set this to the correct egg cycle for the Pokémon you are hatching. If this is set too small or too large, the program will fail and may unintentionally start a trade. (see Precautions)
 
    > All recommendations, precautions, and usage tips for EggCombined apply to this program as well.
 
@@ -130,7 +130,7 @@ Hatch this many boxes of eggs.
 
 ### Egg Step-Count:
 
-The number of steps needed to hatch the eggs. Look up the value on Serebii.
+The number of egg cycles needed to hatch the eggs. Look up the value on [RotomLabs](https://rotomlabs.net/dex).
 
 ### Fetches per Batch:
 

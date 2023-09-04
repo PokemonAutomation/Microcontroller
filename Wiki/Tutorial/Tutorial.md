@@ -1,13 +1,14 @@
 # Microcontroller Tutorial for Microcontroller-Only And Computer-Controlled Programs
 
-This is the entry point for setting up microcontroller.
+This is the entry point for setting up a microcontroller to control your Switch.
 You must start here regardless you choose microcontroller-only or computer-controlled programs.
 
 ## Before you Continue
 
 Before you begin, make sure **you have a computer.** This used to go without saying, but it's becoming apparent that many people do not have computers anymore and only have phones or tablets. You need to have a Windows, macOS or Linux laptop/desktop computer (or a high-end Windows tablet) that you can install software on it.
 
-*In the past, we supported building microcontroller-only .hex files for Mac and Linux . But this was dropped due to lack of developer support. While we still have instructions for Mac and Linux, they may be out-of-date and may no longer work. We do not recommend going this route unless you are computer-savvy and are willing to debug shell scripts.*
+Due to lack of developer, our support of Mac and Linux is limited.
+While you can set these programs up on Mac and Linux, you will need to know how to run command-line build scripts.
 
 ### Requirements for Computer-Controlled Programs
 
@@ -23,7 +24,7 @@ If you would like to use computer-controlled programs, make sure you meet all of
 
 ## Microcontroller Hardware
 
-Follow the [hardware guide](../Hardware/Hardware.md) to purchase all the hardware for automation.
+If you have not already done so, follow the [hardware guide](../Hardware/Hardware.md) to purchase all the hardware for automation.
 
 ## Microcontroller Software
 

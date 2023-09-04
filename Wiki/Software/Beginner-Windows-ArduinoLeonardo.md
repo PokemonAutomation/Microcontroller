@@ -4,6 +4,8 @@ This is the third step in the process towards automation! Below you will find in
 
 > As a reminder: the Switch Lite does not output video feedback. It will not work for programs requiring video feedback.
 
+For macOS and Linux users, use this [tutorial](../Tutorial/Tutorial.md). The following steps in this page are for Windows user only.
+
 ## Step 1:  Install WinAVR
 
 Download and install [WinAVR](https://sourceforge.net/projects/winavr/files/).

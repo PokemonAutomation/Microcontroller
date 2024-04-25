@@ -8,6 +8,8 @@
 
 The microcontroller and computer-control versions of this program are functionally identical.
 
+**This program requires a setup that can only be performed on version 1.0.1 and earlier. But it will work on version 1.1.0 if setup prior to upgrading.**
+
 ## Program Description
 
 Autonomously Duplicate x999 Items in ~6 hours. This program will automatically fix any errors so it can run without supervision!

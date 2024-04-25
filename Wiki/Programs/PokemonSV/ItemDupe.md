@@ -1,5 +1,7 @@
 # Item Dupe
 
+***This program relies on a glitch that was patched out in 1.2.0. It can only be used on versions 1.0.0 - 1.1.0.***
+
 **Related Programs:**
 - **Microcontroller:** [Item Dupe](https://github.com/PokemonAutomation/Microcontroller/blob/master/Wiki/Programs/PokemonSV/ItemDupe.md) (this program)
 - **Computer Control:** [Clone Items](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/PokemonSV/CloneItems-101.md)

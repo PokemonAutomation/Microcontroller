@@ -1,3 +1,0 @@
-This page has moved to:
-
-https://github.com/PokemonAutomation/About/blob/master/Setup/Microcontroller/Microcontroller-ArduinoUnoR3.md

@@ -1,6 +1,6 @@
 # Program List (Microcontroller)
 
-This is a list of all the microcontroller programs. To run these programs, you need the [microcontroller setup](/Wiki/Hardware/README.md).
+This is a list of all the microcontroller programs. To run these programs, you need the [microcontroller setup](/Wiki/SetupGuide/README.md).
 
 For computer-control programs, go to the [ComputerControl repository](https://github.com/PokemonAutomation/ComputerControl/blob/master/Wiki/Programs/README.md).
 
